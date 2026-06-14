@@ -1,0 +1,997 @@
+id	name	sex	birthyear	height	weight	team	noc	games	year	season	city	sport	event	medal
+396	Katja Abel	F	1983	165	55	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+396	Katja Abel	F	1983	165	55	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+396	Katja Abel	F	1983	165	55	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+396	Katja Abel	F	1983	165	55	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+396	Katja Abel	F	1983	165	55	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+627	Andreea Roxana Acatrinei	F	1992	150	40	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+627	Andreea Roxana Acatrinei	F	1992	150	40	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Bronze
+627	Andreea Roxana Acatrinei	F	1992	150	40	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+627	Andreea Roxana Acatrinei	F	1992	150	40	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+1071	Kseniya Dmitriyevna Afanasyeva	F	1992	158	48	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+1071	Kseniya Dmitriyevna Afanasyeva	F	1992	158	48	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+1071	Kseniya Dmitriyevna Afanasyeva	F	1992	158	48	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+1071	Kseniya Dmitriyevna Afanasyeva	F	1992	158	48	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+1071	Kseniya Dmitriyevna Afanasyeva	F	1992	158	48	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+1938	Nashwan Haidar Al-Harazi	M	1987	162	54	Yemen	YEM	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+1938	Nashwan Haidar Al-Harazi	M	1987	162	54	Yemen	YEM	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+1938	Nashwan Haidar Al-Harazi	M	1987	162	54	Yemen	YEM	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+1938	Nashwan Haidar Al-Harazi	M	1987	162	54	Yemen	YEM	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+3675	Thomas Andergassen	M	1980	166	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+3675	Thomas Andergassen	M	1980	166	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+3675	Thomas Andergassen	M	1980	166	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+3675	Thomas Andergassen	M	1980	166	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+3675	Thomas Andergassen	M	1980	166	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+4333	Matteo Angioletti	M	1981	162	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+4333	Matteo Angioletti	M	1981	162	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+4333	Matteo Angioletti	M	1981	162	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+4333	Matteo Angioletti	M	1981	162	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+4333	Matteo Angioletti	M	1981	162	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+4333	Matteo Angioletti	M	1981	162	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+5363	Alexander Vladimirovich "Sasha" Artemev	M	1986	168	nan	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+5363	Alexander Vladimirovich "Sasha" Artemev	M	1986	168	nan	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Bronze
+5363	Alexander Vladimirovich "Sasha" Artemev	M	1986	168	nan	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+5363	Alexander Vladimirovich "Sasha" Artemev	M	1986	168	nan	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+5363	Alexander Vladimirovich "Sasha" Artemev	M	1986	168	nan	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+5363	Alexander Vladimirovich "Sasha" Artemev	M	1986	168	nan	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+5363	Alexander Vladimirovich "Sasha" Artemev	M	1986	168	nan	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+7769	Jade Fernandes Barbosa	F	1991	151	45	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+7769	Jade Fernandes Barbosa	F	1991	151	45	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+7769	Jade Fernandes Barbosa	F	1991	151	45	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+7769	Jade Fernandes Barbosa	F	1991	151	45	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	NA
+7769	Jade Fernandes Barbosa	F	1991	151	45	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+7769	Jade Fernandes Barbosa	F	1991	151	45	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+9683	Rose-Eliandre Bellemare	F	1990	158	38	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+9683	Rose-Eliandre Bellemare	F	1990	158	38	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+9683	Rose-Eliandre Bellemare	F	1990	158	38	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+9683	Rose-Eliandre Bellemare	F	1990	158	38	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+10203	Francesca Benolli	F	1990	163	53	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+10203	Francesca Benolli	F	1990	163	53	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+10203	Francesca Benolli	F	1990	163	53	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+10203	Francesca Benolli	F	1990	163	53	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+10203	Francesca Benolli	F	1990	163	53	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+10408	Monica Roberta Bergamelli	F	1984	152	44	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+10408	Monica Roberta Bergamelli	F	1984	152	44	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+10408	Monica Roberta Bergamelli	F	1984	152	44	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+11207	Stephen Raj Bhavsar	M	1981	169	54	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+11207	Stephen Raj Bhavsar	M	1981	169	54	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Bronze
+11207	Stephen Raj Bhavsar	M	1981	169	54	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+11207	Stephen Raj Bhavsar	M	1981	169	54	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+11207	Stephen Raj Bhavsar	M	1981	169	54	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+11207	Stephen Raj Bhavsar	M	1981	169	54	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+11452	Daria Eva Bijak	F	1986	158	56	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+11452	Daria Eva Bijak	F	1986	158	56	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+11452	Daria Eva Bijak	F	1986	158	56	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+11452	Daria Eva Bijak	F	1986	158	56	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+11452	Daria Eva Bijak	F	1986	158	56	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+11749	Stefani Bisbikou	F	1988	150	44	Greece	GRE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+11749	Stefani Bisbikou	F	1988	150	44	Greece	GRE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+11749	Stefani Bisbikou	F	1988	150	44	Greece	GRE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+11749	Stefani Bisbikou	F	1988	150	44	Greece	GRE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+12154	Leszek Robert Blanik	M	1977	163	64	Poland	POL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+12154	Leszek Robert Blanik	M	1977	163	64	Poland	POL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	Gold
+12575	Dorina Bczg	F	1992	160	48	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+12575	Dorina Bczg	F	1992	160	48	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+12575	Dorina Bczg	F	1992	160	48	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	NA
+12575	Dorina Bczg	F	1992	160	48	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+12575	Dorina Bczg	F	1992	160	48	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+13280	Georgia Bonora	F	1990	160	49	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+13280	Georgia Bonora	F	1990	160	49	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+13280	Georgia Bonora	F	1990	160	49	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+13280	Georgia Bonora	F	1990	160	49	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+13280	Georgia Bonora	F	1990	160	49	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+13813	Isaac Botella Prez de Landazabal	M	1984	161	64	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+13813	Isaac Botella Prez de Landazabal	M	1984	161	64	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+13813	Isaac Botella Prez de Landazabal	M	1984	161	64	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+13813	Isaac Botella Prez de Landazabal	M	1984	161	64	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+13813	Isaac Botella Prez de Landazabal	M	1984	161	64	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+13813	Isaac Botella Prez de Landazabal	M	1984	161	64	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+14002	Thomas Bouhail	M	1986	166	61	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+14002	Thomas Bouhail	M	1986	166	61	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+14002	Thomas Bouhail	M	1986	166	61	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+14002	Thomas Bouhail	M	1986	166	61	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	Silver
+14002	Thomas Bouhail	M	1986	166	61	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+14002	Thomas Bouhail	M	1986	166	61	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+14002	Thomas Bouhail	M	1986	166	61	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+14002	Thomas Bouhail	M	1986	166	61	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+14300	Philipp Boy	M	1987	172	67	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+14300	Philipp Boy	M	1987	172	67	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+14300	Philipp Boy	M	1987	172	67	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+14300	Philipp Boy	M	1987	172	67	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+14300	Philipp Boy	M	1987	172	67	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+14300	Philipp Boy	M	1987	172	67	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+14300	Philipp Boy	M	1987	172	67	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+14944	Ashleigh Jade Brennan	F	1991	154	43	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+14944	Ashleigh Jade Brennan	F	1991	154	43	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+14944	Ashleigh Jade Brennan	F	1991	154	43	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+14944	Ashleigh Jade Brennan	F	1991	154	43	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+14944	Ashleigh Jade Brennan	F	1991	154	43	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+15129	Anja Brinker	F	1991	152	39	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+15129	Anja Brinker	F	1991	152	39	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+15129	Anja Brinker	F	1991	152	39	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+16117	Adrian Bucur	M	1985	170	65	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+16117	Adrian Bucur	M	1985	170	65	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+16117	Adrian Bucur	M	1985	170	65	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+16117	Adrian Bucur	M	1985	170	65	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+16117	Adrian Bucur	M	1985	170	65	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+16117	Adrian Bucur	M	1985	170	65	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+16117	Adrian Bucur	M	1985	170	65	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+16846	Alberto Busnari	M	1979	172	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+16846	Alberto Busnari	M	1979	172	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+16846	Alberto Busnari	M	1979	172	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+16846	Alberto Busnari	M	1979	172	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+16846	Alberto Busnari	M	1979	172	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+16846	Alberto Busnari	M	1979	172	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+17328	Imogen Jane Cairns	F	1989	156	59	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+17328	Imogen Jane Cairns	F	1989	156	59	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+17328	Imogen Jane Cairns	F	1989	156	59	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+17328	Imogen Jane Cairns	F	1989	156	59	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+17328	Imogen Jane Cairns	F	1989	156	59	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+17798	Laura Campos Prieto	F	1989	150	48	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+17798	Laura Campos Prieto	F	1989	150	48	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+17798	Laura Campos Prieto	F	1989	150	48	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+17798	Laura Campos Prieto	F	1989	150	48	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+17984	Maricela Cant Mata	F	1991	155	46	Mexico	MEX	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+17984	Maricela Cant Mata	F	1991	155	46	Mexico	MEX	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+17984	Maricela Cant Mata	F	1991	155	46	Mexico	MEX	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	NA
+17984	Maricela Cant Mata	F	1991	155	46	Mexico	MEX	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+17984	Maricela Cant Mata	F	1991	155	46	Mexico	MEX	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+18027	Claudio Capelli	M	1987	169	66	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+18027	Claudio Capelli	M	1987	169	66	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+18027	Claudio Capelli	M	1987	169	66	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+18027	Claudio Capelli	M	1987	169	66	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+18027	Claudio Capelli	M	1987	169	66	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+18027	Claudio Capelli	M	1987	169	66	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+18118	Benot Pierre Caranobe	M	1980	164	60	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	Bronze
+18118	Benot Pierre Caranobe	M	1980	164	60	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+18118	Benot Pierre Caranobe	M	1980	164	60	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+18118	Benot Pierre Caranobe	M	1980	164	60	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+18118	Benot Pierre Caranobe	M	1980	164	60	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+18118	Benot Pierre Caranobe	M	1980	164	60	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+18118	Benot Pierre Caranobe	M	1980	164	60	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+18118	Benot Pierre Caranobe	M	1980	164	60	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+18135	Manuel Carballo Martnez	M	1983	170	65	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+18135	Manuel Carballo Martnez	M	1983	170	65	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+18135	Manuel Carballo Martnez	M	1983	170	65	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+18135	Manuel Carballo Martnez	M	1983	170	65	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+18135	Manuel Carballo Martnez	M	1983	170	65	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+18135	Manuel Carballo Martnez	M	1983	170	65	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+18135	Manuel Carballo Martnez	M	1983	170	65	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+18858	Igor Cassina	M	1978	180	73	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+18858	Igor Cassina	M	1978	180	73	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+18858	Igor Cassina	M	1978	180	73	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+18858	Igor Cassina	M	1978	180	73	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+18858	Igor Cassina	M	1978	180	73	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+19504	Cha Yong-Hwa	F	NA	145	39	North Korea	PRK	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+19504	Cha Yong-Hwa	F	NA	145	39	North Korea	PRK	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+20312	Chen Yibing	M	1985	160	58	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+20312	Chen Yibing	M	1985	160	58	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Gold
+20312	Chen Yibing	M	1985	160	58	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+20312	Chen Yibing	M	1985	160	58	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+20312	Chen Yibing	M	1985	160	58	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+20312	Chen Yibing	M	1985	160	58	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	Gold
+20312	Chen Yibing	M	1985	160	58	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+20362	Cheng Fei	F	1988	152	43	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+20362	Cheng Fei	F	1988	152	43	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Gold
+20362	Cheng Fei	F	1988	152	43	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+20362	Cheng Fei	F	1988	152	43	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	Bronze
+20362	Cheng Fei	F	1988	152	43	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	Bronze
+21462	Oksana Aleksandrovna Chusovitina	F	1975	153	43	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+21462	Oksana Aleksandrovna Chusovitina	F	1975	153	43	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+21462	Oksana Aleksandrovna Chusovitina	F	1975	153	43	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+21462	Oksana Aleksandrovna Chusovitina	F	1975	153	43	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	Silver
+21462	Oksana Aleksandrovna Chusovitina	F	1975	153	43	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+21462	Oksana Aleksandrovna Chusovitina	F	1975	153	43	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+22998	Andrea Coppolino	M	1980	164	65	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+22998	Andrea Coppolino	M	1980	164	65	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+22998	Andrea Coppolino	M	1980	164	65	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+22998	Andrea Coppolino	M	1980	164	65	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+22998	Andrea Coppolino	M	1980	164	65	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+22998	Andrea Coppolino	M	1980	164	65	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+24174	Yann Cucherat	M	1980	171	70	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+24174	Yann Cucherat	M	1980	171	70	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+24174	Yann Cucherat	M	1980	171	70	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+24174	Yann Cucherat	M	1980	171	70	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+25103	Nansy Damianova	F	1991	154	45	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+25103	Nansy Damianova	F	1991	154	45	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+25103	Nansy Damianova	F	1991	154	45	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	NA
+25103	Nansy Damianova	F	1991	154	45	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+25103	Nansy Damianova	F	1991	154	45	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+26664	Lenika De Simone Blanco	F	1989	152	46	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+26664	Lenika De Simone Blanco	F	1989	152	46	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+26664	Lenika De Simone Blanco	F	1989	152	46	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+26664	Lenika De Simone Blanco	F	1989	152	46	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+26866	Marine Debauve	F	1989	156	42	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+26866	Marine Debauve	F	1989	156	42	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+26866	Marine Debauve	F	1989	156	42	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+26866	Marine Debauve	F	1989	156	42	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+26983	Gervasio Deferr ngel	M	1981	166	69	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+26983	Gervasio Deferr ngel	M	1981	166	69	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+26983	Gervasio Deferr ngel	M	1981	166	69	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	Silver
+26983	Gervasio Deferr ngel	M	1981	166	69	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+26983	Gervasio Deferr ngel	M	1981	166	69	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+27569	Deng Linlin	F	1992	144	34	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+27569	Deng Linlin	F	1992	144	34	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Gold
+27569	Deng Linlin	F	1992	144	34	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+27569	Deng Linlin	F	1992	144	34	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+27569	Deng Linlin	F	1992	144	34	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+27977	Maksim Igoryevich Devyatovsky	M	1984	167	61	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+27977	Maksim Igoryevich Devyatovsky	M	1984	167	61	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+27977	Maksim Igoryevich Devyatovsky	M	1984	167	61	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+27977	Maksim Igoryevich Devyatovsky	M	1984	167	61	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+27977	Maksim Igoryevich Devyatovsky	M	1984	167	61	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+27977	Maksim Igoryevich Devyatovsky	M	1984	167	61	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+27977	Maksim Igoryevich Devyatovsky	M	1984	167	61	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+29574	Daiane Garcia dos Santos	F	1983	145	45	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+29574	Daiane Garcia dos Santos	F	1983	145	45	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+29574	Daiane Garcia dos Santos	F	1983	145	45	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+29788	Rebecca Lauren "Beckie" Downie	F	1992	156	55	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+29788	Rebecca Lauren "Beckie" Downie	F	1992	156	55	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+29788	Rebecca Lauren "Beckie" Downie	F	1992	156	55	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+29788	Rebecca Lauren "Beckie" Downie	F	1992	156	55	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+29788	Rebecca Lauren "Beckie" Downie	F	1992	156	55	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+29843	Th Ngn Thng	F	1989	147	47	Vietnam	VIE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+29843	Th Ngn Thng	F	1989	147	47	Vietnam	VIE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+29843	Th Ngn Thng	F	1989	147	47	Vietnam	VIE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	NA
+29843	Th Ngn Thng	F	1989	147	47	Vietnam	VIE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+29843	Th Ngn Thng	F	1989	147	47	Vietnam	VIE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+29879	Gabriela Drgoi	F	1993	146	37	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+29879	Gabriela Drgoi	F	1993	146	37	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Bronze
+29879	Gabriela Drgoi	F	1993	146	37	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+29879	Gabriela Drgoi	F	1993	146	37	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+29879	Gabriela Drgoi	F	1993	146	37	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+29890	Marian Drgulescu	M	1981	163	64	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+29890	Marian Drgulescu	M	1981	163	64	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+29890	Marian Drgulescu	M	1981	163	64	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+29890	Marian Drgulescu	M	1981	163	64	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+29890	Marian Drgulescu	M	1981	163	64	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+30466	Laetitia Dugain	F	1993	160	52	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+30466	Laetitia Dugain	F	1993	160	52	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+30466	Laetitia Dugain	F	1993	160	52	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+30466	Laetitia Dugain	F	1993	160	52	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+30466	Laetitia Dugain	F	1993	160	52	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+32204	Sherine Ahmed El-Zeiny	F	1991	162	50	Egypt	EGY	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+32204	Sherine Ahmed El-Zeiny	F	1991	162	50	Egypt	EGY	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+32204	Sherine Ahmed El-Zeiny	F	1991	162	50	Egypt	EGY	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+32204	Sherine Ahmed El-Zeiny	F	1991	162	50	Egypt	EGY	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+32816	Tina Erceg	F	1988	162	51	Croatia	CRO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+32816	Tina Erceg	F	1988	162	51	Croatia	CRO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+32816	Tina Erceg	F	1988	162	51	Croatia	CRO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	NA
+32816	Tina Erceg	F	1988	162	51	Croatia	CRO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+32816	Tina Erceg	F	1988	162	51	Croatia	CRO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+34955	Vanessa Ferrari	F	1991	146	45	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+34955	Vanessa Ferrari	F	1991	146	45	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+34955	Vanessa Ferrari	F	1991	146	45	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+34955	Vanessa Ferrari	F	1991	146	45	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+34955	Vanessa Ferrari	F	1991	146	45	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+36046	Anton Viktorovich Fokin	M	1983	169	57	Uzbekistan	UZB	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+36046	Anton Viktorovich Fokin	M	1983	169	57	Uzbekistan	UZB	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+36046	Anton Viktorovich Fokin	M	1983	169	57	Uzbekistan	UZB	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	Bronze
+36046	Anton Viktorovich Fokin	M	1983	169	57	Uzbekistan	UZB	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+36046	Anton Viktorovich Fokin	M	1983	169	57	Uzbekistan	UZB	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+36046	Anton Viktorovich Fokin	M	1983	169	57	Uzbekistan	UZB	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+36701	Ethiene Cristina Gonser Franco	F	1992	147	46	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+36701	Ethiene Cristina Gonser Franco	F	1992	147	46	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+36701	Ethiene Cristina Gonser Franco	F	1992	147	46	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+36701	Ethiene Cristina Gonser Franco	F	1992	147	46	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+36701	Ethiene Cristina Gonser Franco	F	1992	147	46	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+37448	Jos Luis Fuentes Bustamente	M	1985	167	64	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+37448	Jos Luis Fuentes Bustamente	M	1985	167	64	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+37448	Jos Luis Fuentes Bustamente	M	1985	167	64	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+37448	Jos Luis Fuentes Bustamente	M	1985	167	64	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+37448	Jos Luis Fuentes Bustamente	M	1985	167	64	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+37448	Jos Luis Fuentes Bustamente	M	1985	167	64	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+37876	Nathan Gafuik	M	1985	161	55	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+37876	Nathan Gafuik	M	1985	161	55	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+37876	Nathan Gafuik	M	1985	161	55	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+37876	Nathan Gafuik	M	1985	161	55	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+37876	Nathan Gafuik	M	1985	161	55	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+37876	Nathan Gafuik	M	1985	161	55	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+37876	Nathan Gafuik	M	1985	161	55	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+37982	Rbert Gl	M	1979	166	64	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+37982	Rbert Gl	M	1979	166	64	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+37982	Rbert Gl	M	1979	166	64	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+37982	Rbert Gl	M	1979	166	64	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+38079	Luiza Galiulina	F	1992	145	35	Uzbekistan	UZB	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+38079	Luiza Galiulina	F	1992	145	35	Uzbekistan	UZB	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+38079	Luiza Galiulina	F	1992	145	35	Uzbekistan	UZB	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+38079	Luiza Galiulina	F	1992	145	35	Uzbekistan	UZB	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+40477	Ilia Giorgadze	M	1978	168	70	Georgia	GEO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+40477	Ilia Giorgadze	M	1978	168	70	Georgia	GEO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+40477	Ilia Giorgadze	M	1978	168	70	Georgia	GEO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+40504	Carlotta Giovannini	F	1990	158	50	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+40504	Carlotta Giovannini	F	1990	158	50	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+40504	Carlotta Giovannini	F	1990	158	50	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+40504	Carlotta Giovannini	F	1990	158	50	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	NA
+40504	Carlotta Giovannini	F	1990	158	50	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+40504	Carlotta Giovannini	F	1990	158	50	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+40517	Jorge Hugo Giraldo Lpez	M	1980	163	60	Colombia	COL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+40517	Jorge Hugo Giraldo Lpez	M	1980	163	60	Colombia	COL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+40517	Jorge Hugo Giraldo Lpez	M	1980	163	60	Colombia	COL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+40517	Jorge Hugo Giraldo Lpez	M	1980	163	60	Colombia	COL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+40517	Jorge Hugo Giraldo Lpez	M	1980	163	60	Colombia	COL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+40517	Jorge Hugo Giraldo Lpez	M	1980	163	60	Colombia	COL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+41123	Grant Golding	M	1981	164	54	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+41123	Grant Golding	M	1981	164	54	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+41123	Grant Golding	M	1981	164	54	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+41123	Grant Golding	M	1981	164	54	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+41123	Grant Golding	M	1981	164	54	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+41123	Grant Golding	M	1981	164	54	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+41201	Anton Sergeyevich Golotsutskov	M	1985	165	63	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+41201	Anton Sergeyevich Golotsutskov	M	1985	165	63	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+41201	Anton Sergeyevich Golotsutskov	M	1985	165	63	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	Bronze
+41201	Anton Sergeyevich Golotsutskov	M	1985	165	63	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	Bronze
+41201	Anton Sergeyevich Golotsutskov	M	1985	165	63	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+41201	Anton Sergeyevich Golotsutskov	M	1985	165	63	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+41201	Anton Sergeyevich Golotsutskov	M	1985	165	63	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+42907	Andreea Florentina Grigore	F	1991	146	39	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+42907	Andreea Florentina Grigore	F	1991	146	39	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Bronze
+42907	Andreea Florentina Grigore	F	1991	146	39	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+44726	Joseph "Joey" Hagerty	M	1982	163	61	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+44726	Joseph "Joey" Hagerty	M	1982	163	61	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Bronze
+44726	Joseph "Joey" Hagerty	M	1982	163	61	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+44726	Joseph "Joey" Hagerty	M	1982	163	61	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+44726	Joseph "Joey" Hagerty	M	1982	163	61	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+44726	Joseph "Joey" Hagerty	M	1982	163	61	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+45219	Fabian Hambchen	M	1988	164	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+45219	Fabian Hambchen	M	1988	164	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+45219	Fabian Hambchen	M	1988	164	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+45219	Fabian Hambchen	M	1988	164	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+45219	Fabian Hambchen	M	1988	164	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+45219	Fabian Hambchen	M	1988	164	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	Bronze
+45219	Fabian Hambchen	M	1988	164	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+45219	Fabian Hambchen	M	1988	164	62	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+46085	Suzanne Helena Johanna Harmes	F	1986	170	57	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+46085	Suzanne Helena Johanna Harmes	F	1986	170	57	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+46085	Suzanne Helena Johanna Harmes	F	1986	170	57	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+46085	Suzanne Helena Johanna Harmes	F	1986	170	57	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+46931	He Kexin	F	1992	142	33	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+46931	He Kexin	F	1992	142	33	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Gold
+46931	He Kexin	F	1992	142	33	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	Gold
+48671	Marie-Sophie Hindermann	F	1991	171	51	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+48671	Marie-Sophie Hindermann	F	1991	171	51	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+48671	Marie-Sophie Hindermann	F	1991	171	51	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+48671	Marie-Sophie Hindermann	F	1991	171	51	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+48671	Marie-Sophie Hindermann	F	1991	171	51	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+49338	Valentyna Mykhailivna Holenkova	F	1992	150	40	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+49338	Valentyna Mykhailivna Holenkova	F	1992	150	40	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+49338	Valentyna Mykhailivna Holenkova	F	1992	150	40	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+49338	Valentyna Mykhailivna Holenkova	F	1992	150	40	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+49338	Valentyna Mykhailivna Holenkova	F	1992	150	40	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+49685	Valeriy Volodymyrovych Honcharov	M	1978	168	57	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+49685	Valeriy Volodymyrovych Honcharov	M	1978	168	57	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+49685	Valeriy Volodymyrovych Honcharov	M	1978	168	57	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+49742	Hong Un-Jong	F	1989	156	47	North Korea	PRK	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+49742	Hong Un-Jong	F	1989	156	47	North Korea	PRK	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+49742	Hong Un-Jong	F	1989	156	47	North Korea	PRK	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	Gold
+49742	Hong Un-Jong	F	1989	156	47	North Korea	PRK	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+49742	Hong Un-Jong	F	1989	156	47	North Korea	PRK	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+49847	Elyse Madison Hopfner-Hibbs	F	1990	152	46	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+49847	Elyse Madison Hopfner-Hibbs	F	1990	152	46	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+49847	Elyse Madison Hopfner-Hibbs	F	1990	152	46	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+49847	Elyse Madison Hopfner-Hibbs	F	1990	152	46	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+50052	Jonathan Alan Horton	M	1986	155	59	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+50052	Jonathan Alan Horton	M	1986	155	59	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Bronze
+50052	Jonathan Alan Horton	M	1986	155	59	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+50052	Jonathan Alan Horton	M	1986	155	59	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+50052	Jonathan Alan Horton	M	1986	155	59	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	Silver
+50052	Jonathan Alan Horton	M	1986	155	59	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+50052	Jonathan Alan Horton	M	1986	155	59	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+50659	Huang Xu	M	1979	162	59	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+50659	Huang Xu	M	1979	162	59	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Gold
+50659	Huang Xu	M	1979	162	59	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+50659	Huang Xu	M	1979	162	59	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+50659	Huang Xu	M	1979	162	59	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+51456	Daniele Matias Hyplito	F	1985	147	51	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+51456	Daniele Matias Hyplito	F	1985	147	51	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+51456	Daniele Matias Hyplito	F	1985	147	51	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+51456	Daniele Matias Hyplito	F	1985	147	51	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+51456	Daniele Matias Hyplito	F	1985	147	51	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+51457	Diego Matias Hyplito	M	1986	170	68	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+51457	Diego Matias Hyplito	M	1986	170	68	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+51707	Aleksey Aleksandrovich Ignatovich	M	1986	167	65	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+51707	Aleksey Aleksandrovich Ignatovich	M	1986	167	65	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+51707	Aleksey Aleksandrovich Ignatovich	M	1986	167	65	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+51707	Aleksey Aleksandrovich Ignatovich	M	1986	167	65	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+52994	Sandra Raluca Izbaa	F	1990	164	52	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+52994	Sandra Raluca Izbaa	F	1990	164	52	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Bronze
+52994	Sandra Raluca Izbaa	F	1990	164	52	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	Gold
+52994	Sandra Raluca Izbaa	F	1990	164	52	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+52994	Sandra Raluca Izbaa	F	1990	164	52	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+54806	Jiang Yuyuan	F	1992	140	32	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+54806	Jiang Yuyuan	F	1992	140	32	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Gold
+54806	Jiang Yuyuan	F	1992	140	32	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+54806	Jiang Yuyuan	F	1992	140	32	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+54806	Jiang Yuyuan	F	1992	140	32	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+54975	Jo Hyun-Joo	F	1993	139	33	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+54975	Jo Hyun-Joo	F	1993	139	33	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+54975	Jo Hyun-Joo	F	1993	139	33	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+54975	Jo Hyun-Joo	F	1993	139	33	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+55457	Shawn Machel Johnson (-East)	F	1992	145	41	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	Silver
+55457	Shawn Machel Johnson (-East)	F	1992	145	41	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Silver
+55457	Shawn Machel Johnson (-East)	F	1992	145	41	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	Silver
+55457	Shawn Machel Johnson (-East)	F	1992	145	41	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+55457	Shawn Machel Johnson (-East)	F	1992	145	41	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	Gold
+56020	Daria "Dasha" Joura	F	1990	154	50	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+56020	Daria "Dasha" Joura	F	1990	154	50	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+56020	Daria "Dasha" Joura	F	1990	154	50	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+56020	Daria "Dasha" Joura	F	1990	154	50	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+56020	Daria "Dasha" Joura	F	1990	154	50	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+56187	Robert Juckel	M	1982	168	65	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+56187	Robert Juckel	M	1982	168	65	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+56187	Robert Juckel	M	1982	168	65	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+56187	Robert Juckel	M	1982	168	65	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+56187	Robert Juckel	M	1982	168	65	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+56187	Robert Juckel	M	1982	168	65	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+56612	Ariella Kaeslin	F	1988	165	55	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+56612	Ariella Kaeslin	F	1988	165	55	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+56612	Ariella Kaeslin	F	1988	165	55	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	NA
+56612	Ariella Kaeslin	F	1988	165	55	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+56612	Ariella Kaeslin	F	1988	165	55	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+57505	Dimitri Karbanenko	M	1973	174	70	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+57505	Dimitri Karbanenko	M	1973	174	70	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+57505	Dimitri Karbanenko	M	1973	174	70	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+57505	Dimitri Karbanenko	M	1973	174	70	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+57505	Dimitri Karbanenko	M	1973	174	70	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+57505	Dimitri Karbanenko	M	1973	174	70	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+57505	Dimitri Karbanenko	M	1973	174	70	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+57845	Takehiro Kashima	M	1980	168	62	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+57845	Takehiro Kashima	M	1980	168	62	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Silver
+57845	Takehiro Kashima	M	1980	168	62	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+57845	Takehiro Kashima	M	1980	168	62	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+57845	Takehiro Kashima	M	1980	168	62	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+57897	Dmitry Levonovich Kasperovich	M	1978	157	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+57897	Dmitry Levonovich Kasperovich	M	1978	157	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+57897	Dmitry Levonovich Kasperovich	M	1978	157	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+57897	Dmitry Levonovich Kasperovich	M	1978	157	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+57897	Dmitry Levonovich Kasperovich	M	1978	157	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+57897	Dmitry Levonovich Kasperovich	M	1978	157	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+57897	Dmitry Levonovich Kasperovich	M	1978	157	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+58335	Daniel Ryan Keatings	M	1990	171	68	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+58335	Daniel Ryan Keatings	M	1990	171	68	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+58335	Daniel Ryan Keatings	M	1990	171	68	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+58335	Daniel Ryan Keatings	M	1990	171	68	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+58335	Daniel Ryan Keatings	M	1990	171	68	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+58335	Daniel Ryan Keatings	M	1990	171	68	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+59382	Sergey Gennadyevich Khorokhordin	M	1986	165	64	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+59382	Sergey Gennadyevich Khorokhordin	M	1986	165	64	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+59382	Sergey Gennadyevich Khorokhordin	M	1986	165	64	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+59382	Sergey Gennadyevich Khorokhordin	M	1986	165	64	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+59382	Sergey Gennadyevich Khorokhordin	M	1986	165	64	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+59382	Sergey Gennadyevich Khorokhordin	M	1986	165	64	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+59382	Sergey Gennadyevich Khorokhordin	M	1986	165	64	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+59683	David Taro Kikuchi	M	1980	162	56	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+59683	David Taro Kikuchi	M	1980	162	56	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+59683	David Taro Kikuchi	M	1980	162	56	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+59683	David Taro Kikuchi	M	1980	162	56	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+59683	David Taro Kikuchi	M	1980	162	56	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+59683	David Taro Kikuchi	M	1980	162	56	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+59827	Kim Dae-Eun	M	1985	163	58	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+59827	Kim Dae-Eun	M	1985	163	58	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+59827	Kim Dae-Eun	M	1985	163	58	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+59827	Kim Dae-Eun	M	1985	163	58	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+59827	Kim Dae-Eun	M	1985	163	58	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+59827	Kim Dae-Eun	M	1985	163	58	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+59827	Kim Dae-Eun	M	1985	163	58	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+60042	Kim Ji-Hun	M	1985	173	65	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+60042	Kim Ji-Hun	M	1985	173	65	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+60042	Kim Ji-Hun	M	1985	173	65	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+60042	Kim Ji-Hun	M	1985	173	65	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+60042	Kim Ji-Hun	M	1985	173	65	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+60241	Kim Seung-Il	M	1985	171	65	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+60241	Kim Seung-Il	M	1985	171	65	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+60241	Kim Seung-Il	M	1985	171	65	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+60241	Kim Seung-Il	M	1985	171	65	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+60241	Kim Seung-Il	M	1985	171	65	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+60241	Kim Seung-Il	M	1985	171	65	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+60241	Kim Seung-Il	M	1985	171	65	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+60273	Kim Su-Myeon	M	1987	165	57	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+60273	Kim Su-Myeon	M	1987	165	57	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+60273	Kim Su-Myeon	M	1987	165	57	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+60273	Kim Su-Myeon	M	1987	165	57	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+60273	Kim Su-Myeon	M	1987	165	57	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+60273	Kim Su-Myeon	M	1987	165	57	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+60273	Kim Su-Myeon	M	1987	165	57	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+60496	Marissa Petra King	F	1991	154	53	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+60496	Marissa Petra King	F	1991	154	53	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+60496	Marissa Petra King	F	1991	154	53	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+60496	Marissa Petra King	F	1991	154	53	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+60496	Marissa Petra King	F	1991	154	53	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+61406	Svetlana Alekseyevna Klyukina	F	1989	152	40	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+61406	Svetlana Alekseyevna Klyukina	F	1989	152	40	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+61406	Svetlana Alekseyevna Klyukina	F	1989	152	40	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+61406	Svetlana Alekseyevna Klyukina	F	1989	152	40	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+61839	Flavius Koczi	M	1988	162	57	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+61839	Flavius Koczi	M	1988	162	57	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+61839	Flavius Koczi	M	1988	162	57	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+61839	Flavius Koczi	M	1988	162	57	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+61839	Flavius Koczi	M	1988	162	57	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+61839	Flavius Koczi	M	1988	162	57	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+61839	Flavius Koczi	M	1988	162	57	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+61839	Flavius Koczi	M	1988	162	57	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+62421	Martin Konen	M	1984	170	64	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+62421	Martin Konen	M	1984	170	64	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+62421	Martin Konen	M	1984	170	64	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+63365	Ivana Kovov	F	1992	158	47	Slovakia	SVK	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+63365	Ivana Kovov	F	1992	158	47	Slovakia	SVK	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+63365	Ivana Kovov	F	1992	158	47	Slovakia	SVK	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+63429	Anastasiya Serhivna Koval	F	1993	154	44	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+63429	Anastasiya Serhivna Koval	F	1993	154	44	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+63429	Anastasiya Serhivna Koval	F	1993	154	44	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+63429	Anastasiya Serhivna Koval	F	1993	154	44	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+63574	Alina Yevhenivna Kozich	F	1988	161	52	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+63574	Alina Yevhenivna Kozich	F	1988	161	52	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+63574	Alina Yevhenivna Kozich	F	1988	161	52	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+63574	Alina Yevhenivna Kozich	F	1988	161	52	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+63574	Alina Yevhenivna Kozich	F	1988	161	52	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+63588	Igor Nikolayevich Kozlov	M	1987	163	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+63588	Igor Nikolayevich Kozlov	M	1987	163	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+63588	Igor Nikolayevich Kozlov	M	1987	163	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+63588	Igor Nikolayevich Kozlov	M	1987	163	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+63588	Igor Nikolayevich Kozlov	M	1987	163	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+63588	Igor Nikolayevich Kozlov	M	1987	163	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+63711	Yekaterina Aleksandrovna Kramarenko	F	1991	146	40	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+63711	Yekaterina Aleksandrovna Kramarenko	F	1991	146	40	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+63711	Yekaterina Aleksandrovna Kramarenko	F	1991	146	40	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+63711	Yekaterina Aleksandrovna Kramarenko	F	1991	146	40	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+63711	Yekaterina Aleksandrovna Kramarenko	F	1991	146	40	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+63766	Iryna Vasylivna Krasnianska	F	1988	155	51	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+63766	Iryna Vasylivna Krasnianska	F	1988	155	51	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+63766	Iryna Vasylivna Krasnianska	F	1988	155	51	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+63766	Iryna Vasylivna Krasnianska	F	1988	155	51	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+64444	Nikolay Vyacheslavovich Kryukov	M	1979	164	59	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+64444	Nikolay Vyacheslavovich Kryukov	M	1979	164	59	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+64444	Nikolay Vyacheslavovich Kryukov	M	1979	164	59	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+64444	Nikolay Vyacheslavovich Kryukov	M	1979	164	59	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+64444	Nikolay Vyacheslavovich Kryukov	M	1979	164	59	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+65157	Mayu Kuroda	F	1989	145	37	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+65157	Mayu Kuroda	F	1989	145	37	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+65157	Mayu Kuroda	F	1989	145	37	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+65157	Mayu Kuroda	F	1989	145	37	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+69483	Li Shanshan	F	1992	145	36	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+69483	Li Shanshan	F	1992	145	36	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Gold
+69483	Li Shanshan	F	1992	145	36	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+69483	Li Shanshan	F	1992	145	36	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+69526	Li Xiaopeng	M	1981	162	56	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+69526	Li Xiaopeng	M	1981	162	56	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Gold
+69526	Li Xiaopeng	M	1981	162	56	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+69526	Li Xiaopeng	M	1981	162	56	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	Gold
+69526	Li Xiaopeng	M	1981	162	56	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+69526	Li Xiaopeng	M	1981	162	56	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+70210	Katheleen Lindor	F	1990	167	59	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+70210	Katheleen Lindor	F	1990	167	59	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+70210	Katheleen Lindor	F	1990	167	59	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+70210	Katheleen Lindor	F	1990	167	59	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+70711	Anastasiya Valeryevna "Nastia" Liukin	F	1990	160	45	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	Gold
+70711	Anastasiya Valeryevna "Nastia" Liukin	F	1990	160	45	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Silver
+70711	Anastasiya Valeryevna "Nastia" Liukin	F	1990	160	45	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	Bronze
+70711	Anastasiya Valeryevna "Nastia" Liukin	F	1990	160	45	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	Silver
+70711	Anastasiya Valeryevna "Nastia" Liukin	F	1990	160	45	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	Silver
+71382	Jessica Brizeida Lpez Arocha	F	1986	155	47	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+71382	Jessica Brizeida Lpez Arocha	F	1986	155	47	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+71382	Jessica Brizeida Lpez Arocha	F	1986	155	47	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+71382	Jessica Brizeida Lpez Arocha	F	1986	155	47	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+73137	Federica Macr	F	1991	157	47	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+73137	Federica Macr	F	1991	157	47	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+73137	Federica Macr	F	1991	157	47	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+73137	Federica Macr	F	1991	157	47	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+74698	Anastasiya Igorevna Marachkovskaya	F	1991	164	47	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+74698	Anastasiya Igorevna Marachkovskaya	F	1991	164	47	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+74698	Anastasiya Igorevna Marachkovskaya	F	1991	164	47	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	NA
+74698	Anastasiya Igorevna Marachkovskaya	F	1991	164	47	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+74698	Anastasiya Igorevna Marachkovskaya	F	1991	164	47	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+74717	Vlasis Maras	M	1983	160	52	Greece	GRE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+74717	Vlasis Maras	M	1983	160	52	Greece	GRE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+74717	Vlasis Maras	M	1983	160	52	Greece	GRE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+75824	Rafael Martnez Barrena	M	1984	164	62	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+75824	Rafael Martnez Barrena	M	1984	164	62	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+75824	Rafael Martnez Barrena	M	1984	164	62	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+75824	Rafael Martnez Barrena	M	1984	164	62	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+75824	Rafael Martnez Barrena	M	1984	164	62	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+75824	Rafael Martnez Barrena	M	1984	164	62	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+75824	Rafael Martnez Barrena	M	1984	164	62	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+78546	Chellsie Marie Memmel (-Maier)	F	1988	160	54	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+78546	Chellsie Marie Memmel (-Maier)	F	1988	160	54	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Silver
+78546	Chellsie Marie Memmel (-Maier)	F	1988	160	54	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+80185	Yu Minobe	F	1990	148	38	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+80185	Yu Minobe	F	1990	148	38	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+80185	Yu Minobe	F	1990	148	38	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+80185	Yu Minobe	F	1990	148	38	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+80417	Lauren Mitchell	F	1991	152	42	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+80417	Lauren Mitchell	F	1991	152	42	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+80417	Lauren Mitchell	F	1991	152	42	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+80417	Lauren Mitchell	F	1991	152	42	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+80743	Joeline Mbius	F	1993	153	42	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+80743	Joeline Mbius	F	1993	153	42	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+80743	Joeline Mbius	F	1993	153	42	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+80743	Joeline Mbius	F	1993	153	42	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+81819	Matteo Morandi	M	1982	165	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+81819	Matteo Morandi	M	1982	165	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+81819	Matteo Morandi	M	1982	165	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+81819	Matteo Morandi	M	1982	165	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+81819	Matteo Morandi	M	1982	165	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+81819	Matteo Morandi	M	1982	165	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+81819	Matteo Morandi	M	1982	165	71	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+81930	Pauline Morel	F	1992	157	43	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+81930	Pauline Morel	F	1992	157	43	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+81930	Pauline Morel	F	1992	157	43	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+81930	Pauline Morel	F	1992	157	43	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+81930	Pauline Morel	F	1992	157	43	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+82044	Shona Morgan	F	1991	158	49	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+82044	Shona Morgan	F	1991	158	49	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+82044	Shona Morgan	F	1991	158	49	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+82044	Shona Morgan	F	1991	158	49	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+82044	Shona Morgan	F	1991	158	49	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+83346	Sergio Muoz Escribano	M	1990	171	69	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+83346	Sergio Muoz Escribano	M	1990	171	69	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+83346	Sergio Muoz Escribano	M	1990	171	69	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+83346	Sergio Muoz Escribano	M	1990	171	69	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+83346	Sergio Muoz Escribano	M	1990	171	69	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+83346	Sergio Muoz Escribano	M	1990	171	69	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+83346	Sergio Muoz Escribano	M	1990	171	69	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+83932	Galle Mys	F	1992	156	50	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+83932	Galle Mys	F	1992	156	50	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+83932	Galle Mys	F	1992	156	50	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+83932	Galle Mys	F	1992	156	50	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+84362	Takuya Nakase	M	1983	165	64	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+84362	Takuya Nakase	M	1983	165	64	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Silver
+84362	Takuya Nakase	M	1983	165	64	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+84362	Takuya Nakase	M	1983	165	64	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+84362	Takuya Nakase	M	1983	165	64	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+84362	Takuya Nakase	M	1983	165	64	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+84362	Takuya Nakase	M	1983	165	64	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+85712	Marcel Van Minh Phuc Long Nguyen	M	1988	165	55	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+85712	Marcel Van Minh Phuc Long Nguyen	M	1988	165	55	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+85712	Marcel Van Minh Phuc Long Nguyen	M	1988	165	55	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+85712	Marcel Van Minh Phuc Long Nguyen	M	1988	165	55	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+85712	Marcel Van Minh Phuc Long Nguyen	M	1988	165	55	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+85712	Marcel Van Minh Phuc Long Nguyen	M	1988	165	55	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+86548	Steliana Nistor	F	1990	149	43	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+86548	Steliana Nistor	F	1990	149	43	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Bronze
+86548	Steliana Nistor	F	1990	149	43	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+86548	Steliana Nistor	F	1990	149	43	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+86548	Steliana Nistor	F	1990	149	43	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+88459	Makoto Okiguchi	M	1986	161	57	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+88459	Makoto Okiguchi	M	1986	161	57	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Silver
+88459	Makoto Okiguchi	M	1986	161	57	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+89107	Brandon O'Neill	M	1985	160	56	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+89107	Brandon O'Neill	M	1985	160	56	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+89107	Brandon O'Neill	M	1985	160	56	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+89107	Brandon O'Neill	M	1985	160	56	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+89107	Brandon O'Neill	M	1985	160	56	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+89741	Kyoko Oshima	F	1986	149	39	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+89741	Kyoko Oshima	F	1986	149	39	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+89741	Kyoko Oshima	F	1986	149	39	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+89741	Kyoko Oshima	F	1986	149	39	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+89741	Kyoko Oshima	F	1986	149	39	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+90752	Kristna Paleov	F	1991	158	48	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+90752	Kristna Paleov	F	1991	158	48	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+90752	Kristna Paleov	F	1991	158	48	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+90752	Kristna Paleov	F	1991	158	48	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+90763	Sascha Palgen	M	1985	176	70	Luxembourg	LUX	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+90763	Sascha Palgen	M	1985	176	70	Luxembourg	LUX	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+90763	Sascha Palgen	M	1985	176	70	Luxembourg	LUX	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+90763	Sascha Palgen	M	1985	176	70	Luxembourg	LUX	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+90763	Sascha Palgen	M	1985	176	70	Luxembourg	LUX	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+90763	Sascha Palgen	M	1985	176	70	Luxembourg	LUX	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+91745	Lia Parolari	F	1990	160	44	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+91745	Lia Parolari	F	1990	160	44	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+91745	Lia Parolari	F	1990	160	44	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+91745	Lia Parolari	F	1990	160	44	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+91745	Lia Parolari	F	1990	160	44	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+92326	Anna Anatolyevna Pavlova	F	1988	152	43	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+92326	Anna Anatolyevna Pavlova	F	1988	152	43	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+92326	Anna Anatolyevna Pavlova	F	1988	152	43	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+92326	Anna Anatolyevna Pavlova	F	1988	152	43	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	NA
+92326	Anna Anatolyevna Pavlova	F	1988	152	43	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+92326	Anna Anatolyevna Pavlova	F	1988	152	43	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+93764	Samantha Nicole Peszek	F	1992	152	50	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+93764	Samantha Nicole Peszek	F	1992	152	50	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Silver
+93764	Samantha Nicole Peszek	F	1992	152	50	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+93959	Marine Petit	F	1993	156	42	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+93959	Marine Petit	F	1993	156	42	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+93959	Marine Petit	F	1993	156	42	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+93959	Marine Petit	F	1993	156	42	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+93959	Marine Petit	F	1993	156	42	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+93992	Mitja Petkovek	M	1977	167	65	Slovenia	SLO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+93992	Mitja Petkovek	M	1977	167	65	Slovenia	SLO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+94807	Marta Pihan-Kulesza	F	1987	162	53	Poland	POL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+94807	Marta Pihan-Kulesza	F	1987	162	53	Poland	POL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+94807	Marta Pihan-Kulesza	F	1987	162	53	Poland	POL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+94807	Marta Pihan-Kulesza	F	1987	162	53	Poland	POL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+95543	Konstantin Sergeyevich Pluzhnikov	M	1987	168	66	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+95543	Konstantin Sergeyevich Pluzhnikov	M	1987	168	66	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+95543	Konstantin Sergeyevich Pluzhnikov	M	1987	168	66	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+95543	Konstantin Sergeyevich Pluzhnikov	M	1987	168	66	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+95543	Konstantin Sergeyevich Pluzhnikov	M	1987	168	66	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+96138	Ilie Daniel Popescu	M	1983	168	58	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+96138	Ilie Daniel Popescu	M	1983	168	58	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+96138	Ilie Daniel Popescu	M	1983	168	58	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+96138	Ilie Daniel Popescu	M	1983	168	58	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+96138	Ilie Daniel Popescu	M	1983	168	58	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+96138	Ilie Daniel Popescu	M	1983	168	58	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+96138	Ilie Daniel Popescu	M	1983	168	58	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+96138	Ilie Daniel Popescu	M	1983	168	58	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+96688	Enrico Pozzo	M	1981	169	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+96688	Enrico Pozzo	M	1981	169	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+96688	Enrico Pozzo	M	1981	169	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+96688	Enrico Pozzo	M	1981	169	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+96688	Enrico Pozzo	M	1981	169	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+96688	Enrico Pozzo	M	1981	169	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+96688	Enrico Pozzo	M	1981	169	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+97210	Maryna Sviatoslavivna Proskurina	F	1986	167	55	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+97210	Maryna Sviatoslavivna Proskurina	F	1986	167	55	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+97210	Maryna Sviatoslavivna Proskurina	F	1986	167	55	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+97210	Maryna Sviatoslavivna Proskurina	F	1986	167	55	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+101134	Luis Rivera Rivera	M	1987	168	68	Puerto Rico	PUR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+101134	Luis Rivera Rivera	M	1987	168	68	Puerto Rico	PUR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+101134	Luis Rivera Rivera	M	1987	168	68	Puerto Rico	PUR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+101134	Luis Rivera Rivera	M	1987	168	68	Puerto Rico	PUR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+101134	Luis Rivera Rivera	M	1987	168	68	Puerto Rico	PUR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+101134	Luis Rivera Rivera	M	1987	168	68	Puerto Rico	PUR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+101134	Luis Rivera Rivera	M	1987	168	68	Puerto Rico	PUR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+101678	Danny Pinheiro Rodrigues	M	1985	161	57	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+101678	Danny Pinheiro Rodrigues	M	1985	161	57	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+101678	Danny Pinheiro Rodrigues	M	1985	161	57	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+101678	Danny Pinheiro Rodrigues	M	1985	161	57	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+101678	Danny Pinheiro Rodrigues	M	1985	161	57	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+103811	Yury Sergeyevich Ryazanov	M	1987	172	68	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+103811	Yury Sergeyevich Ryazanov	M	1987	172	68	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+103811	Yury Sergeyevich Ryazanov	M	1987	172	68	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+103811	Yury Sergeyevich Ryazanov	M	1987	172	68	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+103811	Yury Sergeyevich Ryazanov	M	1987	172	68	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+103811	Yury Sergeyevich Ryazanov	M	1987	172	68	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+103811	Yury Sergeyevich Ryazanov	M	1987	172	68	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+104062	Hamilton Sabot	M	1987	173	63	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+104062	Hamilton Sabot	M	1987	173	63	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+104062	Hamilton Sabot	M	1987	173	63	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+104062	Hamilton Sabot	M	1987	173	63	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+104062	Hamilton Sabot	M	1987	173	63	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+104062	Hamilton Sabot	M	1987	173	63	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+104062	Hamilton Sabot	M	1987	173	63	France	FRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+104111	Alicia Marie Sacramone (-Quinn)	F	1988	155	53	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+104111	Alicia Marie Sacramone (-Quinn)	F	1988	155	53	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Silver
+104111	Alicia Marie Sacramone (-Quinn)	F	1988	155	53	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+104111	Alicia Marie Sacramone (-Quinn)	F	1988	155	53	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	NA
+104111	Alicia Marie Sacramone (-Quinn)	F	1988	155	53	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+104465	Adela Sajn	F	1990	167	52	Slovenia	SLO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+104465	Adela Sajn	F	1990	167	52	Slovenia	SLO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+104465	Adela Sajn	F	1990	167	52	Slovenia	SLO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+104506	Koki Sakamoto	M	1987	163	56	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+104506	Koki Sakamoto	M	1987	163	56	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Silver
+104506	Koki Sakamoto	M	1987	163	56	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+104506	Koki Sakamoto	M	1987	163	56	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+104506	Koki Sakamoto	M	1987	163	56	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+104506	Koki Sakamoto	M	1987	163	56	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+104506	Koki Sakamoto	M	1987	163	56	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+105101	Ivn San Miguel Prez	M	1985	170	70	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+105101	Ivn San Miguel Prez	M	1985	170	70	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+105101	Ivn San Miguel Prez	M	1985	170	70	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+105101	Ivn San Miguel Prez	M	1985	170	70	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+105101	Ivn San Miguel Prez	M	1985	170	70	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+105101	Ivn San Miguel Prez	M	1985	170	70	Spain	ESP	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+105227	Nathalia Snchez Crdenas	F	1992	138	38	Colombia	COL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+105227	Nathalia Snchez Crdenas	F	1992	138	38	Colombia	COL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+105227	Nathalia Snchez Crdenas	F	1992	138	38	Colombia	COL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+105227	Nathalia Snchez Crdenas	F	1992	138	38	Colombia	COL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+106224	Denis Vladimirovich Savenkov	M	1984	166	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+106224	Denis Vladimirovich Savenkov	M	1984	166	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+106224	Denis Vladimirovich Savenkov	M	1984	166	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+106224	Denis Vladimirovich Savenkov	M	1984	166	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+106224	Denis Vladimirovich Savenkov	M	1984	166	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+106224	Denis Vladimirovich Savenkov	M	1984	166	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+106224	Denis Vladimirovich Savenkov	M	1984	166	60	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+106280	Dmitry Savitsky	M	1984	167	63	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+106280	Dmitry Savitsky	M	1984	167	63	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+106280	Dmitry Savitsky	M	1984	167	63	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+106280	Dmitry Savitsky	M	1984	167	63	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+106280	Dmitry Savitsky	M	1984	167	63	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+106280	Dmitry Savitsky	M	1984	167	63	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+106280	Dmitry Savitsky	M	1984	167	63	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+106604	Christoph Schrer	M	1981	174	66	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+106604	Christoph Schrer	M	1981	174	66	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+106604	Christoph Schrer	M	1981	174	66	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+108423	Rzvan Dorin elariu	M	1984	173	73	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+108423	Rzvan Dorin elariu	M	1984	173	73	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+108423	Rzvan Dorin elariu	M	1984	173	73	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+108423	Rzvan Dorin elariu	M	1984	173	73	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+108423	Rzvan Dorin elariu	M	1984	173	73	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+108423	Rzvan Dorin elariu	M	1984	173	73	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+108423	Rzvan Dorin elariu	M	1984	173	73	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+108583	Kseniya Andreyevna Semyonova	F	1993	138	35	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+108583	Kseniya Andreyevna Semyonova	F	1993	138	35	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+108583	Kseniya Andreyevna Semyonova	F	1993	138	35	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+108583	Kseniya Andreyevna Semyonova	F	1993	138	35	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+108583	Kseniya Andreyevna Semyonova	F	1993	138	35	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+109346	Aleksandr Shatilov	M	1987	182	77	Israel	ISR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+109346	Aleksandr Shatilov	M	1987	182	77	Israel	ISR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+109346	Aleksandr Shatilov	M	1987	182	77	Israel	ISR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+109346	Aleksandr Shatilov	M	1987	182	77	Israel	ISR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+109346	Aleksandr Shatilov	M	1987	182	77	Israel	ISR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+109346	Aleksandr Shatilov	M	1987	182	77	Israel	ISR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+109662	Kyle Keith Shewfelt	M	1982	164	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+109662	Kyle Keith Shewfelt	M	1982	164	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+109662	Kyle Keith Shewfelt	M	1982	164	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+109662	Kyle Keith Shewfelt	M	1982	164	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+109662	Kyle Keith Shewfelt	M	1982	164	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+109662	Kyle Keith Shewfelt	M	1982	164	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+109844	Yuko Shintake	F	1991	154	nan	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+109844	Yuko Shintake	F	1991	154	nan	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+109844	Yuko Shintake	F	1991	154	nan	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+109844	Yuko Shintake	F	1991	154	nan	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+110491	Ana Cludia Trindade Araujo da Silva	F	1992	150	37	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+110491	Ana Cludia Trindade Araujo da Silva	F	1992	150	37	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+110491	Ana Cludia Trindade Araujo da Silva	F	1992	150	37	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+110491	Ana Cludia Trindade Araujo da Silva	F	1992	150	37	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+110491	Ana Cludia Trindade Araujo da Silva	F	1992	150	37	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+110896	Sam Simpson	M	1984	167	70	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+110896	Sam Simpson	M	1984	167	70	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+110896	Sam Simpson	M	1984	167	70	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+110896	Sam Simpson	M	1984	167	70	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+110896	Sam Simpson	M	1984	167	70	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+110896	Sam Simpson	M	1984	167	70	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+111974	Bridget Elizabeth Sloan	F	1992	150	47	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+111974	Bridget Elizabeth Sloan	F	1992	150	47	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Silver
+111974	Bridget Elizabeth Sloan	F	1992	150	47	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+111974	Bridget Elizabeth Sloan	F	1992	150	47	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+111974	Bridget Elizabeth Sloan	F	1992	150	47	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+112342	Louis Antoine Smith	M	1989	184	76	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+112342	Louis Antoine Smith	M	1989	184	76	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+112342	Louis Antoine Smith	M	1989	184	76	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+112342	Louis Antoine Smith	M	1989	184	76	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+112342	Louis Antoine Smith	M	1989	184	76	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+112342	Louis Antoine Smith	M	1989	184	76	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	Bronze
+113497	Las da Silva Souza	F	1989	156	47	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+113497	Las da Silva Souza	F	1989	156	47	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+113497	Las da Silva Souza	F	1989	156	47	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+113497	Las da Silva Souza	F	1989	156	47	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+113889	Evgenij "Eugen" Spiridonov	M	1982	164	61	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+113889	Evgenij "Eugen" Spiridonov	M	1982	164	61	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+113889	Evgenij "Eugen" Spiridonov	M	1982	164	61	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+113889	Evgenij "Eugen" Spiridonov	M	1982	164	61	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+113889	Evgenij "Eugen" Spiridonov	M	1982	164	61	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+113889	Evgenij "Eugen" Spiridonov	M	1982	164	61	Germany	GER	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+113975	Justin Edward Spring	M	1984	170	64	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+113975	Justin Edward Spring	M	1984	170	64	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Bronze
+113975	Justin Edward Spring	M	1984	170	64	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+113975	Justin Edward Spring	M	1984	170	64	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+113975	Justin Edward Spring	M	1984	170	64	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+113975	Justin Edward Spring	M	1984	170	64	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+114070	Mohamed Sayed Mohamed Srour	M	1986	nan	nan	Egypt	EGY	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+114070	Mohamed Sayed Mohamed Srour	M	1986	nan	nan	Egypt	EGY	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+114070	Mohamed Sayed Mohamed Srour	M	1986	nan	nan	Egypt	EGY	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+114070	Mohamed Sayed Mohamed Srour	M	1986	nan	nan	Egypt	EGY	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+114070	Mohamed Sayed Mohamed Srour	M	1986	nan	nan	Egypt	EGY	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+114070	Mohamed Sayed Mohamed Srour	M	1986	nan	nan	Egypt	EGY	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+114302	George Robert Stnescu	M	1985	167	62	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+114302	George Robert Stnescu	M	1985	167	62	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+114302	George Robert Stnescu	M	1985	167	62	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+114302	George Robert Stnescu	M	1985	167	62	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+114302	George Robert Stnescu	M	1985	167	62	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+118177	Anamaria "Ana" Tmrjan	F	1991	145	37	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+118177	Anamaria "Ana" Tmrjan	F	1991	145	37	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Bronze
+118177	Anamaria "Ana" Tmrjan	F	1991	145	37	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+118177	Anamaria "Ana" Tmrjan	F	1991	145	37	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+118177	Anamaria "Ana" Tmrjan	F	1991	145	37	Romania	ROU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+118270	Kai-Wen "Kevin" Tan	M	1982	163	64	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+118270	Kai-Wen "Kevin" Tan	M	1982	163	64	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Bronze
+118270	Kai-Wen "Kevin" Tan	M	1982	163	64	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+118270	Kai-Wen "Kevin" Tan	M	1982	163	64	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+118270	Kai-Wen "Kevin" Tan	M	1982	163	64	United States	USA	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+118477	Nikolina Tankucheva	F	1986	157	46	Bulgaria	BUL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+118477	Nikolina Tankucheva	F	1986	157	46	Bulgaria	BUL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+118477	Nikolina Tankucheva	F	1986	157	46	Bulgaria	BUL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+118477	Nikolina Tankucheva	F	1986	157	46	Bulgaria	BUL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+120946	Hiroyuki Tomita	M	1981	166	58	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+120946	Hiroyuki Tomita	M	1981	166	58	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Silver
+120946	Hiroyuki Tomita	M	1981	166	58	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+120946	Hiroyuki Tomita	M	1981	166	58	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+120946	Hiroyuki Tomita	M	1981	166	58	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+120946	Hiroyuki Tomita	M	1981	166	58	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+120946	Hiroyuki Tomita	M	1981	166	58	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+122217	Aleksandr Petrovich Tsarevich	M	1987	175	65	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+122217	Aleksandr Petrovich Tsarevich	M	1987	175	65	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+122217	Aleksandr Petrovich Tsarevich	M	1987	175	65	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+122217	Aleksandr Petrovich Tsarevich	M	1987	175	65	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+122217	Aleksandr Petrovich Tsarevich	M	1987	175	65	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+122217	Aleksandr Petrovich Tsarevich	M	1987	175	65	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+122414	Koko Tsurumi	F	1993	141	34	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+122414	Koko Tsurumi	F	1993	141	34	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+122414	Koko Tsurumi	F	1993	141	34	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+122414	Koko Tsurumi	F	1993	141	34	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+122414	Koko Tsurumi	F	1993	141	34	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+122914	Elizabeth Kimberly "Beth" Tweddle	F	1985	159	52	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+122914	Elizabeth Kimberly "Beth" Tweddle	F	1985	159	52	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+122914	Elizabeth Kimberly "Beth" Tweddle	F	1985	159	52	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+122914	Elizabeth Kimberly "Beth" Tweddle	F	1985	159	52	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+123056	Kohei Uchimura	M	1989	160	54	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	Silver
+123056	Kohei Uchimura	M	1989	160	54	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Silver
+123056	Kohei Uchimura	M	1989	160	54	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+123056	Kohei Uchimura	M	1989	160	54	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+123056	Kohei Uchimura	M	1989	160	54	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+123056	Kohei Uchimura	M	1989	160	54	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+123056	Kohei Uchimura	M	1989	160	54	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+123078	Filip Ude	M	1986	170	68	Croatia	CRO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+123078	Filip Ude	M	1986	170	68	Croatia	CRO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+123078	Filip Ude	M	1986	170	68	Croatia	CRO	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	Silver
+123128	Miki Uemura	F	1986	149	38	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+123128	Miki Uemura	F	1986	149	38	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+123128	Miki Uemura	F	1986	149	38	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+123128	Miki Uemura	F	1986	149	38	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+123128	Miki Uemura	F	1986	149	38	Japan	JPN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+124242	Koen Van Damme	M	1987	167	62	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+124242	Koen Van Damme	M	1987	167	62	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+124242	Koen Van Damme	M	1987	167	62	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+124242	Koen Van Damme	M	1987	167	62	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+124242	Koen Van Damme	M	1987	167	62	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+124242	Koen Van Damme	M	1987	167	62	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+126931	Olivia Vivian	F	1989	165	58	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+126931	Olivia Vivian	F	1989	165	58	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+126931	Olivia Vivian	F	1989	165	58	Australia	AUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+127483	Oleksandr Serhiyovych Vorobiov	M	1985	158	55	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+127483	Oleksandr Serhiyovych Vorobiov	M	1985	158	55	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	Bronze
+129950	Hannah Kate Whelan	F	1992	160	53	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+129950	Hannah Kate Whelan	F	1992	160	53	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+129950	Hannah Kate Whelan	F	1992	160	53	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+129950	Hannah Kate Whelan	F	1992	160	53	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+130977	Rebecca Jayne Wing	F	1992	165	52	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+130977	Rebecca Jayne Wing	F	1992	165	52	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+130977	Rebecca Jayne Wing	F	1992	165	52	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+130977	Rebecca Jayne Wing	F	1992	165	52	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+131409	Adam Wong	M	1985	170	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+131409	Adam Wong	M	1985	170	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+131409	Adam Wong	M	1985	170	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+131409	Adam Wong	M	1985	170	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+131409	Adam Wong	M	1985	170	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+131409	Adam Wong	M	1985	170	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+131409	Adam Wong	M	1985	170	61	Canada	CAN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+132011	Xiao Qin	M	1985	163	52	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+132011	Xiao Qin	M	1985	163	52	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Gold
+132011	Xiao Qin	M	1985	163	52	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+132011	Xiao Qin	M	1985	163	52	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+132011	Xiao Qin	M	1985	163	52	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+132011	Xiao Qin	M	1985	163	52	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	Gold
+132544	Yang Tae-Yeong	M	1980	167	63	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+132544	Yang Tae-Yeong	M	1980	167	63	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+132544	Yang Tae-Yeong	M	1980	167	63	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+132544	Yang Tae-Yeong	M	1980	167	63	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horse Vault	NA
+132544	Yang Tae-Yeong	M	1980	167	63	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+132544	Yang Tae-Yeong	M	1980	167	63	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+132544	Yang Tae-Yeong	M	1980	167	63	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+132544	Yang Tae-Yeong	M	1980	167	63	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+132547	Yang Wei	M	1980	160	54	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	Gold
+132547	Yang Wei	M	1980	160	54	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Gold
+132547	Yang Wei	M	1980	160	54	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	NA
+132547	Yang Wei	M	1980	160	54	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	NA
+132547	Yang Wei	M	1980	160	54	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+132547	Yang Wei	M	1980	160	54	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	Silver
+132547	Yang Wei	M	1980	160	54	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Pommelled Horse	NA
+132568	Yang Yilin	F	1993	150	35	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	Bronze
+132568	Yang Yilin	F	1993	150	35	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	Gold
+132568	Yang Yilin	F	1993	150	35	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+132568	Yang Yilin	F	1993	150	35	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	Bronze
+132568	Yang Yilin	F	1993	150	35	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+132948	Lyudmila Andreyevna Yezhova-Grebenkova	F	1982	140	39	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+132948	Lyudmila Andreyevna Yezhova-Grebenkova	F	1982	140	39	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+132948	Lyudmila Andreyevna Yezhova-Grebenkova	F	1982	140	39	Russia	RUS	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+133279	Yordan Yovchev Yovchev	M	1973	163	62	Bulgaria	BUL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+133279	Yordan Yovchev Yovchev	M	1973	163	62	Bulgaria	BUL	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+133375	Yu Won-Cheol	M	1984	165	59	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+133375	Yu Won-Cheol	M	1984	165	59	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	NA
+133375	Yu Won-Cheol	M	1984	165	59	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Parallel Bars	Silver
+133375	Yu Won-Cheol	M	1984	165	59	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Rings	NA
+133937	Jelena Zanevskaja	F	1987	162	52	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+133937	Jelena Zanevskaja	F	1987	162	52	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Floor Exercise	NA
+133937	Jelena Zanevskaja	F	1987	162	52	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Horse Vault	NA
+133937	Jelena Zanevskaja	F	1987	162	52	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+133937	Jelena Zanevskaja	F	1987	162	52	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+134774	Daryna Yaroslavivna "Dar'ia" Zhoba	F	1990	161	53	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Individual All-Around	NA
+134774	Daryna Yaroslavivna "Dar'ia" Zhoba	F	1990	161	53	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Team All-Around	NA
+134774	Daryna Yaroslavivna "Dar'ia" Zhoba	F	1990	161	53	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Uneven Bars	NA
+134774	Daryna Yaroslavivna "Dar'ia" Zhoba	F	1990	161	53	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Women's Balance Beam	NA
+135228	Epke Jan Zonderland	M	1986	173	69	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+135228	Epke Jan Zonderland	M	1986	173	69	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	NA
+135269	Zou Kai	M	1988	158	55	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Individual All-Around	NA
+135269	Zou Kai	M	1988	158	55	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Team All-Around	Gold
+135269	Zou Kai	M	1988	158	55	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Floor Exercise	Gold
+135269	Zou Kai	M	1988	158	55	China	CHN	2008 Summer	2008	Summer	Beijing	Gymnastics	Gymnastics Men's Horizontal Bar	Gold

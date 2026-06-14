@@ -1,0 +1,653 @@
+id	name	sex	birthyear	height	weight	team	noc	games	year	season	city	sport	event	medal
+583	Julien Absalon	M	1981	180	68	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	Gold
+1056	Mario Aerts	M	1975	182	68	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+1631	Bilal Akgl	M	1983	167	59	Turkey	TUR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+2428	Moiss Aldape Chvez	M	1982	175	62	Mexico	MEX	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+2897	Thomas Allier	M	1975	185	86	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+2999	Patricio Javier Almonacid Gonzlez	M	1980	166	60	Chile	CHI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+3255	Carlos Eduardo Alzate Escobar	M	1983	180	70	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+4182	Vera Sergeyevna Andreyeva	F	1988	167	64	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+4827	Juan Esteban Arango Carvajal	M	1987	172	62	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+5167	Kristin Ann Armstrong (-Savola)	F	1974	173	58	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+5167	Kristin Ann Armstrong (-Savola)	F	1974	173	58	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	Gold
+5198	Judith Arndt	F	1976	173	59	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+5198	Judith Arndt	F	1976	173	59	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+5293	Marco Antonio Arriagada Quinchel	M	1976	167	58	Chile	CHI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+5423	Kurt Asle Arvesen	M	1975	183	74	Norway	NOR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+5597	Hossein Askari	M	1975	179	73	Iran	IRI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+5597	Hossein Askari	M	1975	179	73	Iran	IRI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+5973	John Lee Augustyn	M	1987	178	65	South Africa	RSA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+6160	Mohd Azizulhasni Awang	M	1988	166	69	Malaysia	MAS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+6160	Mohd Azizulhasni Awang	M	1988	166	69	Malaysia	MAS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+6160	Mohd Azizulhasni Awang	M	1988	166	69	Malaysia	MAS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+6445	Tom Bbek	M	1987	186	84	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+6910	Tanya Bailey	F	1981	165	66	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+7408	Henrik Baltzersen	M	1985	180	93	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+8191	Michael Gerard Barry	M	1976	189	72	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+8555	Katherine Linsey "Kate" Bates	F	1982	176	69	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+8555	Katherine Linsey "Kate" Bates	F	1982	176	69	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+8729	Grgory Benot Baug	M	1985	181	100	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+8729	Grgory Benot Baug	M	1985	181	100	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	Silver
+8910	Ryan Neville Bayley	M	1982	182	90	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+8910	Ryan Neville Bayley	M	1982	182	90	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+8910	Ryan Neville Bayley	M	1982	182	90	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+9126	Cristian Daniel Becerine	M	1977	177	81	Argentina	ARG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+9240	Oliver John "Oli" Beckingsale	M	1976	182	63	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+9591	Ahmed Youssef Belgasem	M	1988	165	68	Libya	LBA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+9659	Zachary Michael "Zach" Bell	M	1983	175	75	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+9659	Zachary Michael "Zach" Bell	M	1983	175	75	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+9706	Jonathan Matthew "Jonny" Bellis	M	1989	179	69	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+9759	Raivis Belohvoiks	M	1976	182	70	Latvia	LAT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+9759	Raivis Belohvoiks	M	1976	182	70	Latvia	LAT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+9795	Chantal Herlindes Julitte Beltman	F	1977	180	68	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+9971	Petr Benik	M	1976	180	73	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+10174	Kyle Ray Bennett	M	1980	183	83	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+10276	Fumiyuki Beppu	M	1983	180	65	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+10276	Fumiyuki Beppu	M	1983	180	65	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+10428	Carsten Bergemann	M	1979	196	102	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+11069	Paolo Bettini	M	1974	169	58	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+11119	Samuel Ryan "Sam" Bewley	M	1987	192	80	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Bronze
+11371	Maciej Bielecki	M	1987	173	80	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+12196	Michael Benjamin Blatchford	M	1986	178	82	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+12196	Michael Benjamin Blatchford	M	1986	178	82	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+12490	Jack Bobridge	M	1989	180	65	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+12644	Lszl Bodrogi	M	1977	186	77	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+12644	Lszl Bodrogi	M	1977	186	77	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+13611	Alejandro Alberto Borrajo	M	1980	180	76	Argentina	ARG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+13703	Theo Bos	M	1984	190	85	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+13703	Theo Bos	M	1984	190	85	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+13703	Theo Bos	M	1984	190	85	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+13818	Santiago Botero Echeverry	M	1973	175	75	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+13818	Santiago Botero Echeverry	M	1973	175	75	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+14106	Mickal Stphane Bourgain	M	1980	181	77	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	Bronze
+14106	Mickal Stphane Bourgain	M	1980	181	77	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	Silver
+14313	Nataliya Sergeyevna Boyarskaya	F	1983	167	67	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+14313	Nataliya Sergeyevna Boyarskaya	F	1983	167	67	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+14407	Borut Boi	M	1981	178	69	Slovenia	SLO	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+14649	Nicole Brndli-Sedoun	F	1979	167	48	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+14665	Christophe Brandt	M	1977	182	66	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+14959	Bart Jan-Baptist Marie Brentjens	M	1969	188	79	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+15347	Roman Broni	M	1977	187	74	Slovakia	SVK	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+15527	Graeme Allen Brown	M	1979	177	75	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+15841	Marzio Bruseghin	M	1974	182	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+15841	Marzio Bruseghin	M	1974	182	70	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+15941	Paulina Agata Brzena (-Bentkowska)	F	1982	163	56	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+16475	Aleksandra Vasilevna Burchenkova	F	1989	172	67	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+16614	Steven James Burke	M	1988	183	78	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	Bronze
+17028	Lene Byberg	F	1983	171	56	Norway	NOR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+17471	Mara Luisa Calle Williams	F	1969	170	51	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	NA
+17471	Mara Luisa Calle Williams	F	1969	170	51	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+17491	Nicole Callisto	F	1988	170	66	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+17788	Francisca Linoska Campos Salas	F	1985	169	56	Chile	CHI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+17857	Fabian Cancellara	M	1981	186	81	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	Silver
+17857	Fabian Cancellara	M	1981	186	81	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	Gold
+17963	Noemi Cantele	F	1981	170	58	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+18194	Andr Fernando dos Santos Martins Cardoso	M	1985	168	57	Portugal	POR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+18507	Vera Carrara	F	1980	177	64	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+18507	Vera Carrara	F	1980	177	64	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+18550	Sara Maree Carrigan	F	1981	168	60	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+18984	Arles Antonio Castro Laverde	M	1979	170	61	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+18986	Augusto Castro Herrera	M	1987	185	88	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+19155	Mark Simon Cavendish	M	1985	175	70	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+19514	Hichem Chabane	M	1989	184	70	Algeria	ALG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+19539	Glen Alan Chadwick	M	1977	183	75	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+19668	Chan Chun Hing	M	1981	170	70	Hong Kong	HKG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+20013	Anne-Caroline Stphanie Chausson	F	1978	172	64	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	Gold
+20079	Catherine "Cath" Cheatley	F	1983	170	64	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+20079	Catherine "Cath" Cheatley	F	1983	170	64	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+20640	Roberto Chiappa	M	1974	184	92	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+20640	Roberto Chiappa	M	1974	184	92	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+21255	Michael Frk Christensen	M	1986	186	76	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Silver
+21351	Rafa Al-Chtioui	M	1986	190	79	Tunisia	TUN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+21518	Angelo Ciccone	M	1980	174	62	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+21518	Angelo Ciccone	M	1980	174	62	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+21630	Gerald Michael Ciolek	M	1987	179	74	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+21747	Edward "Ed" Clancy	M	1985	185	79	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Gold
+21991	Stef Marie Michel Clement	M	1983	181	66	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+21991	Stef Marie Michel Clement	M	1983	181	66	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+22498	Carlos Coloma Nicols	M	1982	171	65	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+22759	Alberto Contador Velasco	M	1983	176	62	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+22759	Alberto Contador Velasco	M	1983	176	62	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+22802	Mario Wilfredo Contreras Contreras	M	1987	174	64	El Salvador	ESA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+22889	Nicole Denise Cooke	F	1983	167	58	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	Gold
+22889	Nicole Denise Cooke	F	1983	167	58	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+22900	Samantha "Sammy" Cools	F	1986	160	60	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+23106	Sigrid Teresa Corneo	F	1971	176	54	Slovenia	SLO	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+23647	Adam Craig	M	1992	180	75	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+24300	Stephen Phillip "Steve" Cummings	M	1981	190	75	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+24300	Stephen Phillip "Steve" Cummings	M	1981	190	75	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+24426	Juan Esteban Curuchet	M	1965	175	65	Argentina	ARG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+24426	Juan Esteban Curuchet	M	1965	175	65	Argentina	ARG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	Gold
+24864	Gunn Rita Dahle-Flesj	F	1973	173	64	Norway	NOR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+25780	Aleksandra Katarzyna Dawidowicz	F	1987	167	57	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+25815	Michael "Mike" Day	M	1985	191	93	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	Silver
+26228	Kenny De Ketele	M	1985	179	68	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+26735	Manuel De Vecchi	M	1981	182	91	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+26787	Jan Robert de Wilde	M	1977	188	97	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+26843	Julian Carl Bush Dean	M	1975	178	72	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+26944	Lieselot Decroix	F	1987	167	50	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+27053	Philip Deignan	M	1984	180	65	Ireland	IRL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+27861	Cyril Dessel	M	1975	177	66	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+28245	Mara Gabriela Daz	F	1981	160	53	Argentina	ARG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+28793	Volodymyr Yuriyovych Diudia	M	1983	188	78	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+28793	Volodymyr Yuriyovych Diudia	M	1983	188	78	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+28903	Denis Sergeyevich Dmitriyev	M	1986	177	90	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+28903	Denis Sergeyevich Dmitriyev	M	1986	177	90	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+28903	Denis Sergeyevich Dmitriyev	M	1986	177	90	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+29390	Rubens Valeriano Donizete	M	1980	173	69	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+29461	Priska Doppmann	F	1971	168	55	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+29461	Priska Doppmann	F	1971	168	55	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+30915	Mara Beln Dutto	F	1987	170	67	Argentina	ARG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+30938	Jeremy Adam Duvendeck	M	1982	180	88	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+31400	Ross Samuel Edgar	M	1983	168	72	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	Silver
+32361	Daniel Ellis	M	1989	183	84	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+32559	Ren Enders	M	1987	165	77	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	Bronze
+33082	Scott Erwood	M	1988	178	79	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+33126	Sergi Escobar Roure	M	1975	179	74	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+33126	Sergi Escobar Roure	M	1975	179	74	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+33432	Cadel Lee Evans	M	1977	174	65	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+33432	Cadel Lee Evans	M	1977	174	65	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+33762	Jenny Fhndrich	F	1989	165	70	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+33917	Emilio Andrs Falla Buchely	M	1986	170	60	Ecuador	ECU	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+34426	Pierrick Fdrigo	M	1979	172	66	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+34606	Feng Chun-Kai	M	1989	nan	nan	Chinese Taipei	TPE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+34623	Feng Yong	M	1986	181	83	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+34623	Feng Yong	M	1986	181	83	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+35048	Christel Ferrier Bruneau	F	1979	164	53	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+35525	Murilo Antnio Fischer	M	1979	170	68	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+36158	Marco Aurelio Fontana	M	1985	172	68	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+36259	Juan Pablo Forero Carreo	M	1983	174	70	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+37041	scar Freire Gmez	M	1976	171	65	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+37077	Mark French	M	1985	176	92	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+37077	Mark French	M	1985	176	92	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+37186	Michael "Mike" Friedman	M	1983	175	77	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+37463	Jakob Diemer Fuglsang	M	1985	183	69	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+37596	Margarita "Marga" Fullana Riera	F	1972	169	50	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+37623	Manuel Fumic	M	1982	173	68	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+37726	Toshiaki Fushimi	M	1976	181	85	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+38074	Marek Galiski	M	1974	175	63	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+38114	Horacio Gallardo Burgos	M	1981	nan	nan	Bolivia	BOL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+38417	Gao Min	F	1982	163	56	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+38417	Gao Min	F	1982	163	56	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+38536	Danielys del Valle Garca Buitriag	F	1987	170	68	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+38554	Evelyn Yessenia Garca Marroqun	F	1983	162	52	El Salvador	ESA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	NA
+38554	Evelyn Yessenia Garca Marroqun	F	1983	162	52	El Salvador	ESA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+38868	Gonzalo Andrs Garrido Zenteno	M	1974	174	68	Chile	CHI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+38929	Dario Alejandro Gasco	M	1987	180	68	Argentina	ARG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+39075	Damien Gaudin	M	1987	190	80	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+39549	David Harold George	M	1976	177	61	South Africa	RSA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+39549	David Harold George	M	1976	177	61	South Africa	RSA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+39732	Evgeniy Balev Gerganov	M	1976	170	60	Bulgaria	BUL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+39806	Simon Gerrans	M	1980	170	65	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+39857	Robert Gesink	M	1986	189	69	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+39857	Robert Gesink	M	1986	189	69	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+40268	Martin Gilbert	M	1983	175	82	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+40956	Damien Godet	M	1987	181	75	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+41102	Jure Goler	M	1978	180	64	Slovenia	SLO	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+41478	Angie Sabrina Gonzlez Garca	F	1981	160	57	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+41661	Yoanka Gonzlez Prez	F	1976	168	59	Cuba	CUB	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	Silver
+41663	Yumari Gonzlez Valdinieso	F	1979	170	61	Cuba	CUB	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+42050	Westley Gough	M	1988	185	78	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Bronze
+42059	Georgia Gould	F	1980	175	61	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+42183	Bert Grabsch	M	1975	179	79	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+42183	Bert Grabsch	M	1975	179	79	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+42310	Gina Grain	F	1974	162	54	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+42402	Svetlana Anatolyevna Grankovskaya	F	1976	165	68	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Sprint	NA
+42460	Alessandra Giuseppina Grassi Herrera	F	1977	170	56	Mexico	MEX	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+42505	Jared Graves	M	1983	177	82	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+43428	Gu Seong-Eun	F	1985	166	55	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+43512	Tatiana "Tania" Guderzo	F	1985	160	55	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	Bronze
+43512	Tatiana "Tania" Guderzo	F	1985	160	55	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+43520	Timothy Owen "Tim" Gudsell	M	1984	187	77	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+43583	Lisandra Guerra Rodriguez	F	1988	167	69	Cuba	CUB	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Sprint	NA
+43977	Guo Shuang	F	1986	170	70	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Sprint	Bronze
+44635	Juan Jos Haedo	M	1981	178	70	Argentina	ARG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+44704	Edvald Boasson Hagen	M	1987	181	77	Norway	NOR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+44940	Aurlie Halbwachs	F	1987	167	62	Mauritius	MRI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+45332	Sarah Kathryn Hammer (-Sparks)	F	1984	171	65	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	NA
+45332	Sarah Kathryn Hammer (-Sparks)	F	1984	171	65	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+45363	Roger Edward Hammond	M	1974	174	71	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+47246	Levi Heimans	M	1985	191	81	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+47575	Gregory Robert "Greg" Henderson	M	1977	180	74	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+47575	Gregory Robert "Greg" Henderson	M	1977	180	74	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+47797	Petra Henzi (-Frieden)	F	1970	164	56	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+47965	Jos Antonio Hermida Ramos	M	1979	172	67	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+48247	Ryder Hesjedal	M	1981	188	73	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+48247	Ryder Hesjedal	M	1981	188	73	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+48377	Johannes Frederick "Mannie" Heymans	M	1971	170	65	Namibia	NAM	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+48511	Yvonne Hijgenaar	F	1980	171	67	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Sprint	NA
+48535	Jamie Hildebrandt	M	1981	165	83	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+48663	George Anthony Hincapie Garcs	M	1973	183	77	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+48989	Leigh Hobson	F	1971	165	55	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+49051	Anik Hdi	F	1986	160	73	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+49134	Erik Hoffmann	M	1982	170	65	Namibia	NAM	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+49255	Jennifer Hohl	F	1986	168	55	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+49886	Jana Horkov	F	1984	172	65	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+50278	Wendy Louise Houvenaghel (McClean-)	F	1975	178	60	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	Silver
+50383	Christopher Andrew "Chris" Hoy	M	1976	185	93	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	Gold
+50383	Christopher Andrew "Chris" Hoy	M	1976	185	93	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	Gold
+50383	Christopher Andrew "Chris" Hoy	M	1976	185	93	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	Gold
+50515	Andriy Askoldovych Hryvko	M	1984	180	69	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+50515	Andriy Askoldovych Hryvko	M	1984	180	69	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+50936	Jenning Hein Huizenga	M	1984	185	70	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+51091	Robert Owen Hunter	M	1977	178	72	South Africa	RSA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+51128	Tereza Huikov	F	1987	176	56	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+51691	Maksim Gennadyevich Iglinsky	M	1981	173	70	Kazakhstan	KAZ	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+51710	Mikhail Borisovich Ignatyev	M	1985	176	67	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+51710	Mikhail Borisovich Ignatyev	M	1985	176	67	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	Bronze
+51750	Makoto Iijima	M	1971	169	63	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+52835	Sergey Vasilyevich Ivanov	M	1975	180	74	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+53534	Mark Jamieson	M	1984	175	70	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+54699	Pascale Jeuland	F	1987	162	64	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+54742	Ji Jianhua	M	1982	174	65	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+54829	Andrs Eduardo Jimnez Caicedo	M	1987	188	84	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+55171	Emma Karolina Johansson	F	1984	168	54	Sweden	SWE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	Silver
+55171	Emma Karolina Johansson	F	1984	168	54	Sweden	SWE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+55862	Verena Joo	F	1979	171	63	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	NA
+55862	Verena Joo	F	1979	171	63	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+55967	Rosara Joseph	F	1982	169	57	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+56044	Neboja Jovanovi	M	1983	170	60	Serbia	SRB	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+56109	Casper Jrgensen	M	1986	187	90	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Silver
+56363	Matej Juro	M	1985	186	69	Slovakia	SVK	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+56363	Matej Juro	M	1985	186	69	Slovakia	SVK	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+56518	Geoff Kabush	M	1977	188	75	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+56583	Milan Kadlec	M	1975	179	71	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+56583	Milan Kadlec	M	1975	179	71	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+56702	Dainius Kairelis	M	1980	177	63	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+56826	Irina Nikolayevna Kalentyeva	F	1978	155	45	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	Bronze
+56992	Lesia Mykhailivna Kalytovska	F	1988	174	68	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	Bronze
+56992	Lesia Mykhailivna Kalytovska	F	1988	174	68	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+57237	Tanel Kangert	M	1987	178	66	Estonia	EST	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+57246	Willy Kanis	F	1984	171	79	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Sprint	NA
+57256	Alois Kakovsk	M	1983	193	83	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+57706	Vladimir Aleksandrovich Karpets	M	1981	192	75	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+57706	Vladimir Aleksandrovich Karpets	M	1981	192	75	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+57753	Sebastian Kartfjord	M	1987	181	80	Norway	NOR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+57842	Oksana Mykhailivna Kashchyshyna	F	1978	165	53	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+57959	Rie Katayama	F	1980	157	48	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+58434	Iljo Keisse	M	1983	183	71	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+58434	Iljo Keisse	M	1983	183	71	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+58590	Shane John Kelly	M	1972	182	85	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+58590	Shane John Kelly	M	1972	182	85	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+58744	Jason Francis Kenny	M	1988	178	81	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	Silver
+58744	Jason Francis Kenny	M	1988	178	81	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	Gold
+58926	Fredrik Carl Wilhelm Kessiakoff	M	1980	185	65	Sweden	SWE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+59636	Joanne Marie Kiesanowski	F	1979	169	56	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+59734	Liam Peter Killeen	M	1982	173	65	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+60569	Jill Kintner	F	1982	170	64	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	Bronze
+60663	Kim Kirchen	M	1978	178	68	Luxembourg	LUX	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+60663	Kim Kirchen	M	1978	178	68	Luxembourg	LUX	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+60707	Vasily Vasilyevich Kiriyenko	M	1981	182	75	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+60707	Vasily Vasilyevich Kiriyenko	M	1981	182	75	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+60911	Tsubasa Kitatsuru	M	1985	177	85	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+61071	Lieke Hermina Johanna Klaus	F	1990	173	68	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+61174	Blaa Klemeni	F	1980	172	56	Slovenia	SLO	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+61381	Roger Kluge	M	1986	191	85	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	Silver
+61381	Roger Kluge	M	1986	191	85	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+62253	Aleksandr Viktorovich Kolobnev	M	1981	174	64	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	Bronze
+62534	Ignatas Konovalovas	M	1986	190	75	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+63122	Denys Valentynovych Kostiuk	M	1982	175	62	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+63122	Denys Valentynovych Kostiuk	M	1982	175	62	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+63466	Yevgeny Aleksandrovich Kovalyov	M	1989	184	75	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+63583	Lada Kozlkov	F	1980	170	59	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	NA
+63583	Lada Kozlkov	F	1980	170	59	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+64011	Daniel Adelhard Kreutzfeldt	M	1988	192	70	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+64015	Roman Kreuziger	M	1986	183	67	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+64271	Karsten Kroon	M	1976	180	66	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+64385	Simona Krupeckait	F	1983	170	70	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Sprint	NA
+64587	Sergey Vyacheslavovich Kucherov	M	1980	175	95	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+64593	Aleksandr Anatolyevich Kuchinsky	M	1980	181	77	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+64623	Kamil Kuczyski	M	1985	188	90	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+64623	Kamil Kuczyski	M	1985	188	90	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+64831	Jaroslav Kulhav	M	1985	188	77	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+65062	Hanka Kupfernagel (-Wittig-)	F	1974	174	65	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+65062	Hanka Kupfernagel (-Wittig-)	F	1974	174	65	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+65186	Wolfram Kurschat	M	1975	181	75	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+65272	Pter Kusztor	M	1985	179	61	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+65449	Matija Kvasina	M	1982	180	72	Croatia	CRO	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+65449	Matija Kvasina	M	1982	180	72	Croatia	CRO	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+65481	Antipass Kwari	M	1975	nan	nan	Zimbabwe	ZIM	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+65493	ukasz Kwiatkowski	M	1982	189	92	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+65493	ukasz Kwiatkowski	M	1982	189	92	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+65778	Matthieu Ladagnous	M	1985	188	77	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+65778	Matthieu Ladagnous	M	1985	188	77	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+65907	Sergey Lagutin	M	1981	175	73	Uzbekistan	UZB	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+66057	Ivo Lakus	M	1979	190	96	Latvia	LAT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+66277	Brett Daniel Lancaster	M	1980	189	80	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+66885	Gustav Erik Larsson	M	1981	195	77	Sweden	SWE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+66885	Gustav Erik Larsson	M	1981	195	77	Sweden	SWE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	Silver
+67349	Sharon Laws	F	1974	164	54	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+67499	Latitia Le Corguill	F	1986	163	63	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	Silver
+67558	Robert "Bobby" Lea	M	1984	188	77	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+67558	Robert "Bobby" Lea	M	1984	188	77	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+67656	Laurence Leboucher	F	1972	156	50	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+67690	Eva Lechner	F	1985	165	50	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+68063	Lee Min-Hye	F	1986	174	70	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+68510	Levi Leipheimer	M	1974	173	62	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+68510	Levi Leipheimer	M	1974	173	62	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	Bronze
+68561	Iaki Lejarreta Errasti	M	1984	178	65	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+69064	Kashi Ananda Leuchs	M	1978	180	63	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+69173	Maximilian Levy	M	1987	182	87	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+69173	Maximilian Levy	M	1987	182	87	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+69173	Maximilian Levy	M	1987	182	87	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	Bronze
+69512	Li Wenhao	M	1989	182	90	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+69548	Li Yan	F	1978	172	66	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+70146	Karl Emil Lindgren	M	1985	171	59	Sweden	SWE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+70683	Liu Ying	F	1985	165	54	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+70792	Per Marcus Ljungqvist	M	1975	185	73	Sweden	SWE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+70794	Marie Susanne Ljungskog	F	1976	171	54	Sweden	SWE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+70794	Marie Susanne Ljungskog	F	1976	171	54	Sweden	SWE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+70806	Joan Llaneras Rossell	M	1969	180	65	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	Gold
+70806	Joan Llaneras Rossell	M	1969	180	65	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	Silver
+70860	Matthew "Matt" Lloyd	M	1983	170	62	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+71017	Karl Thomas Henry Lfkvist	M	1984	186	71	Sweden	SWE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+71236	Jeannie Longo-Ciprelli	F	1959	164	48	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+71236	Jeannie Longo-Ciprelli	F	1959	164	48	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+72635	Ricardo Lynch	M	1985	183	80	Jamaica	JAM	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+72734	Ma Liyun	F	1988	162	60	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+73141	Kate "Katie" Mactier	F	1975	171	57	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	NA
+73214	Luke Madill	M	1980	176	78	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+73256	Jens-Erik Madsen	M	1981	180	72	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Silver
+73339	Asier Maeztu Villalabeitia	M	1978	187	83	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+74521	Paul Christian Manning	M	1975	189	76	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Gold
+74631	Athanasios "Thanos" Mantzouranis	M	1982	175	80	Greece	GRE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+74631	Athanasios "Thanos" Mantzouranis	M	1982	175	80	Greece	GRE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+74892	Tomasz Krzysztof Marczyski	M	1984	180	65	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+75094	Ramiro Martn Marino	M	1989	175	68	Argentina	ARG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+75178	Aleksey Mikhaylovich Markov	M	1979	181	81	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+75178	Aleksey Mikhaylovich Markov	M	1979	181	81	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+75178	Aleksey Mikhaylovich Markov	M	1979	181	81	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	Bronze
+75932	Yuliya Viktorovna Martisova	F	1976	169	64	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+76012	Franco Marvulli	M	1979	191	82	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+76176	Fabio Masotti	M	1974	nan	nan	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+76233	Giddeon Massie	M	1982	188	95	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+76233	Giddeon Massie	M	1982	188	95	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+76474	Artrs Matisons	M	1985	180	85	Latvia	LAT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+77315	Jason McCartney	M	1974	183	70	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+77360	Daniel McConnell	M	1985	180	70	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+77364	Mary C. McConneloug	F	1971	165	52	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+77534	Bradley John "Brad" McGee	M	1976	182	72	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+77534	Bradley John "Brad" McGee	M	1976	182	72	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+77579	Seamus Patrick McGrath	M	1976	176	62	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+78005	Anna Maree Devenish Meares	F	1984	165	70	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Sprint	Silver
+78051	Matas Mdici	M	1975	189	70	Argentina	ARG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+78051	Matas Mdici	M	1975	189	70	Argentina	ARG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+78290	Filip Meirhaeghe	M	1971	174	70	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+78393	Maria Wilhelmina Johanna "Mirjam" Melchers-van Poppel	F	1976	175	60	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+78393	Maria Wilhelmina Johanna "Mirjam" Melchers-van Poppel	F	1976	175	60	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+78711	Meng Lang	F	1984	177	65	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+78711	Meng Lang	F	1984	177	65	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+78772	Denis Nikolayevich Menshov	M	1978	180	65	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+78772	Denis Nikolayevich Menshov	M	1978	180	65	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+79192	Cameron "Cam" Meyer	M	1989	181	68	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+79546	Antonio Miguel Parra	M	1983	181	76	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+79584	Vladimir Miholjevi	M	1974	180	67	Croatia	CRO	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+79765	Moritz Milatz	M	1982	173	65	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+80619	Takashi Miyazawa	M	1978	164	60	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+80625	Ghader Mizbani Iranagh	M	1976	175	67	Iran	IRI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+80653	Andrey Anatolyevich Mizurov	M	1973	171	68	Kazakhstan	KAZ	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+80653	Andrey Anatolyevich Mizurov	M	1973	171	68	Kazakhstan	KAZ	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+81338	Maxime Monfort	M	1983	180	67	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+81338	Maxime Monfort	M	1983	180	67	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+81757	Jacek Tadeusz Morajko	M	1981	180	65	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+81833	Adelheid Morath	F	1984	164	52	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+82613	Jaqueline Mouro	F	1976	170	55	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+82621	Jens Mouris	M	1980	198	91	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+82621	Jens Mouris	M	1980	198	91	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+82621	Jens Mouris	M	1980	198	91	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+82764	Michael Mrkv (-Christiansen)	M	1985	183	69	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Silver
+82764	Michael Mrkv (-Christiansen)	M	1985	183	69	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+82996	Teunis "Teun" Mulder	M	1981	182	87	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+82996	Teunis "Teun" Mulder	M	1981	182	87	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+82996	Teunis "Teun" Mulder	M	1981	182	87	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+83364	Sebastin David Muntaner Juaneda	M	1983	187	84	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+83731	Saara Johanna "Sara" Mustonen	F	1981	161	58	Sweden	SWE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+84064	Kiyofumi Nagai	M	1983	175	81	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	Bronze
+84064	Kiyofumi Nagai	M	1983	175	81	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+84110	Tomohiro Nagatsuka	M	1979	182	78	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+84982	Amber L. Neben (Parkinson-)	F	1975	163	50	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+85509	Jrme Neuville	M	1976	192	85	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+85597	Christopher "Chris" Newton	M	1974	181	69	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	Bronze
+85641	Onn Lam "Josiah" Ng	M	1980	173	74	Malaysia	MAS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+85641	Onn Lam "Josiah" Ng	M	1980	173	74	Malaysia	MAS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+85762	Sifiso Nhlapo	M	1987	178	88	South Africa	RSA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+85785	Vincenzo Nibali	M	1985	180	60	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+85785	Vincenzo Nibali	M	1985	180	60	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+86004	Klaus Nielsen	M	1980	176	66	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+86083	Przemysaw Krzysztof Niemiec	M	1980	184	65	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+86083	Przemysaw Krzysztof Niemiec	M	1980	184	65	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+86438	Stefan Nimke	M	1978	186	94	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+86438	Stefan Nimke	M	1978	186	94	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	Bronze
+86821	Chanpeng Nontasin	F	1985	165	58	Thailand	THA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+86883	Lars Petter Nordhaug	M	1984	176	65	Norway	NOR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+87143	Daniel Novikov	M	1989	190	92	Estonia	EST	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+87563	Sven Nys	M	1976	181	71	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+88124	Stuart Peter O'Grady	M	1973	177	71	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+88457	Miho Oki	F	1974	155	48	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+88560	David O'Loughlin	M	1978	178	70	Ireland	IRL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+88562	Leire Olaberria Dorronsoro	F	1977	172	61	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	Bronze
+89769	Elisabeth Osl	F	1986	165	46	Austria	AUT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+90525	Hctor Leonardo Pez Len	M	1982	175	63	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+90576	Luciano Andr Mendona Pagliarini	M	1978	174	68	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+91592	Park Seong-Baek	M	1985	175	73	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+91827	Andrs Parti	M	1983	174	67	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+92194	Roel Paulissen	M	1976	181	65	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+92196	Svetlana Pauliukait	F	1985	176	69	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	NA
+92196	Svetlana Pauliukait	F	1985	176	69	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+92242	Rmi Pauriol	M	1982	181	68	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+92891	Franco Pellizotti	M	1978	175	69	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+92991	Victoria Louise "Vicki" Pendleton (-Gardner)	F	1981	165	60	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Sprint	Gold
+92992	Catharine Pendrel	F	1981	166	50	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+93146	Jean-Christophe Praud	M	1977	172	62	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	Silver
+93328	Jairo Prez Surez	M	1973	177	68	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+93409	Walter Fernando Prez	M	1975	178	78	Argentina	ARG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	Gold
+94108	Daniel Bogomilov Petrov	M	1983	176	66	Bulgaria	BUL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+94177	Aleksandr Alekseyevich Petrovsky	M	1989	186	87	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+94332	Christian Pfannberger	M	1980	177	63	Austria	AUT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+94485	Liam Peter Phillips	M	1989	181	85	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+94505	Taylor Phinney	M	1990	196	81	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+94647	Ruslan Pidhorniy	M	1977	184	72	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+94950	Jrme Pineau	M	1980	176	71	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+95481	Alexandr Pliuschin	M	1987	180	65	Moldova	MDA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+95481	Alexandr Pliuschin	M	1987	180	65	Moldova	MDA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+95790	Liubomyr Mykolaiovych Polataiko	M	1980	178	72	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+95790	Liubomyr Mykolaiovych Polataiko	M	1980	178	72	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+95835	Jolanta Polikeviit	F	1971	165	50	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+95838	Sergey Polinsky	M	1982	nan	nan	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+95838	Sergey Polinsky	M	1982	nan	nan	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+95845	Maksym Polishchuk	M	1984	178	72	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+95874	Olaf Pollack	M	1974	185	75	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+96089	Emma Jane Pooley	F	1983	157	50	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+96089	Emma Jane Pooley	F	1983	157	50	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	Silver
+96159	Vitaliy Oleksandrovych Popkov	M	1983	183	76	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+96225	Yaroslav Pavlovych Popovych	M	1980	175	72	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+96848	Marie-Hlne Prmont	F	1978	160	56	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+97161	Michal Prokop	M	1981	180	83	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+97359	Adam Ptnk	M	1986	177	90	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+97359	Adam Ptnk	M	1986	177	90	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+97393	Edita Puinskait	F	1976	169	54	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+97393	Edita Puinskait	F	1976	169	54	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+98014	Henry Raabe Mndez	M	1983	177	71	Costa Rica	CRC	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+98109	Vilmos Radasics	M	1984	180	84	Hungary	HUN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+98643	Federico Ramrez Mndez	M	1976	176	71	Costa Rica	CRC	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+98948	Ole Gabriel Rasch	M	1975	184	72	Norway	NOR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+98997	Alex Nicki Rasmussen	M	1984	185	88	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Silver
+98997	Alex Nicki Rasmussen	M	1984	185	88	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+99084	Rafa Daniel Ratajczyk	M	1983	nan	nan	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+99199	Cdric Ravanel	M	1979	177	68	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+99358	Shanaze Danielle Reade	F	1989	170	79	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+99386	Davide Rebellin	M	1972	172	67	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+99516	Jennie Idell Reed (-Madden)	F	1978	170	77	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Sprint	NA
+99914	Ren Chengyuan	F	1987	164	55	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+100059	Vasileios Reppas	M	1989	180	88	Greece	GRE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+100059	Vasileios Reppas	M	1989	180	88	Greece	GRE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+100402	Nuno Jorge Gaspar Ribeiro	M	1978	170	59	Portugal	POR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+100418	Christophe Riblon	M	1981	180	67	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+100418	Christophe Riblon	M	1981	180	67	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+100900	Roger Rinderknecht	M	1981	186	83	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+101009	Bruno Risi	M	1969	172	69	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+101311	Luke Justin Roberts	M	1977	181	71	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+101431	Donald "Donny" Robinson	M	1983	165	69	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	Bronze
+101558	Nicholas Roche	M	1984	178	70	Ireland	IRL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+101776	Jackson Jess Rodrguez Ortz	M	1985	168	58	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+101960	Michael Rogers	M	1980	185	74	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+101960	Michael Rogers	M	1980	185	74	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+101985	Radoslav Rogina	M	1979	186	68	Croatia	CRO	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+102042	Thomas Rohregger	M	1983	176	63	Austria	AUT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+102162	Pierre Rolland	M	1987	184	67	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+102335	Rebecca Jayne Romero	F	1980	182	73	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	Gold
+102335	Rebecca Jayne Romero	F	1980	182	73	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+102946	Hayden David Roulston	M	1981	186	83	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	Silver
+102946	Hayden David Roulston	M	1981	186	83	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Bronze
+102946	Hayden David Roulston	M	1981	186	83	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+102978	Nicolas Rousseau	M	1983	177	69	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+103784	Marc James Ryan	M	1983	186	79	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Bronze
+103831	Volodymyr Ivanovych Rybin	M	1981	176	69	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+103831	Volodymyr Ivanovych Rybin	M	1981	176	69	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+103893	Serhiy Oleksandrovych Rysenko	M	1980	174	62	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+104502	Akifumi Sakamoto	M	1982	166	68	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+104662	Sergio Ignacio Salazar Lpez	M	1986	180	75	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+104909	Maryline Salvetat	F	1975	167	55	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+104909	Maryline Salvetat	F	1975	167	55	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+105148	Clara Snchez	F	1984	165	60	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Sprint	NA
+105163	Fabien Sanchez	M	1983	187	77	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+105246	Samuel Snchez Gonzlez	M	1978	181	68	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	Gold
+105246	Samuel Snchez Gonzlez	M	1978	181	68	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+105259	Anna Sanchis Chafer	F	1988	165	56	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+105963	Carlos Sastre Candil	M	1975	171	61	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+106154	Christoph Sauser	M	1976	181	65	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+106510	Monika Schachl	F	1978	165	57	Austria	AUT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+106749	Pieter Otto "Peter" Schep	M	1977	188	78	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+106749	Pieter Otto "Peter" Schep	M	1977	188	78	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+106948	Andy Raymond Schleck	M	1985	187	68	Luxembourg	LUX	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+106949	Frnk Ren Schleck	M	1980	185	63	Luxembourg	LUX	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+107144	Trine Schmidt	F	1988	180	71	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+107309	Nathalie Schneitter	F	1986	166	59	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+107724	Stefan Schumacher	M	1981	183	69	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+107724	Stefan Schumacher	M	1981	183	69	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+107758	Nino Schurter	M	1986	173	68	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	Bronze
+108793	Vilija Sereikait	F	1987	174	62	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	NA
+108808	Jesse Harold Sergent	M	1988	188	78	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Bronze
+108851	Aleksandr Sergeyevich Serov	M	1983	189	76	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+108851	Aleksandr Sergeyevich Serov	M	1983	189	76	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+108857	Jos Rodolfo Serpa Prez	M	1979	174	65	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+109032	Robin Seymour	M	1971	177	72	Ireland	IRL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+109229	Alison Kay Shanks	F	1983	171	63	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	NA
+109398	Vitaliy Shchedov	M	1987	176	70	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+110501	Clemilda Fernandes Silva	F	1979	163	54	Brazil	BRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+110502	Cristbal Mauricio Silva Ibaceta	M	1980	177	69	Chile	CHI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+111375	Kvin Ren Michel Sireau	M	1987	188	90	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+111375	Kvin Ren Michel Sireau	M	1987	188	90	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	Silver
+111481	Konstantin Viktorovich Sivtsov	M	1983	184	70	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+111959	Robertus Michiel Joseph Lucas Maria Jacobus "Robert" Slippens	M	1975	174	65	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+112020	Olga Anatolyevna Slyusareva	F	1969	168	60	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+112501	Gatis Smukulis	M	1987	188	78	Latvia	LAT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+112738	Christiane Soeder (-Richter)	F	1975	173	59	Austria	AUT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+112738	Christiane Soeder (-Richter)	F	1975	173	59	Austria	AUT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+112769	Mehdi Sohrabi	M	1982	170	69	Iran	IRI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+113069	Son Hui-Jeong	F	1987	165	55	South Korea	KOR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+113420	Christoph Reinhold Soukup	M	1981	184	71	Austria	AUT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+113557	Amanda Srensen	F	1986	174	68	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+113562	Chris Anker Srensen	M	1985	184	65	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+113562	Chris Anker Srensen	M	1985	184	65	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+113594	Nicki Srensen	M	1975	182	71	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+113726	Yolande Speedy	F	1977	166	60	South Africa	RSA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+113821	Denis pika	M	1989	179	86	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+113821	Denis pika	M	1989	179	86	Czech Republic	CZE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+113851	Simon pilak	M	1986	177	68	Slovenia	SLO	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+113851	Simon pilak	M	1986	177	68	Slovenia	SLO	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+113913	Sabine Spitz	F	1972	167	60	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	Gold
+114165	Jamie Alan Staff	M	1973	178	92	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	Gold
+114290	Burry Willie Stander	M	1988	173	66	South Africa	RSA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+114451	Dellys Starr (Franke-)	F	1977	166	61	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+115119	Ivan Stevi	M	1980	172	68	Serbia	SRB	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+115120	Janka tevkov	F	1976	168	54	Slovakia	SVK	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+115197	Tetiana Stiazhkina	F	1977	170	51	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+115810	Willem "Wim" Stroetinga	M	1985	176	70	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+115836	Mris trombergs	M	1987	186	90	Latvia	LAT	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	Gold
+116098	Jonathan Fernando Surez Freitez	M	1983	172	76	Venezuela	VEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+117140	Benjamin Ian "Ben" Swift	M	1988	181	67	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+117677	Rein Taarame	M	1987	185	75	Estonia	EST	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+117677	Rein Taarame	M	1987	185	75	Estonia	EST	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+118772	Antonio "Toni" Tauler Lluls	M	1974	185	78	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	NA
+118772	Antonio "Toni" Tauler Lluls	M	1974	185	78	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	Silver
+118867	Cherise Taylor	F	1990	168	54	South Africa	RSA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+119153	Laurens Jan ten Dam	M	1981	184	69	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+119293	Niki Terpstra	M	1984	185	74	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+119790	Geraint Howell Thomas	M	1986	183	70	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Gold
+120034	Christine Thorburn	F	1970	163	56	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+120034	Christine Thorburn	F	1970	163	56	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+120162	Karin Thrig (-Bucher)	F	1972	182	67	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	Bronze
+120162	Karin Thrig (-Bucher)	F	1972	182	67	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Pursuit, 3,000 metres	NA
+120515	Mohd Rizal Tisin	M	1984	179	nan	Malaysia	MAS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+121488	Arnaud Pierre Armand Tournant	M	1978	180	80	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+121488	Arnaud Pierre Armand Tournant	M	1978	180	80	France	FRA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	Silver
+121788	Grete Treier	F	1978	170	61	Estonia	EST	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+121993	Yury Viktorovich Trofimov	M	1984	176	68	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+122144	Nikolay Vasilyevich Trusov	M	1985	185	77	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	NA
+122307	Nataliya Valeryevna Tsilinskaya (-Markovnichenko-, -Minashkin)	F	1976	173	73	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Sprint	NA
+122402	Sakie Tsukuda	F	1986	168	68	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Sprint	NA
+122529	Svein Tuft	M	1977	181	76	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+122529	Svein Tuft	M	1977	181	76	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+123406	Rigoberto Urn Urn	M	1987	171	53	Colombia	COL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+123582	Aleksandr Vladimirovich Usov	M	1978	176	63	Belarus	BLR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+123838	Jn Valach	M	1974	194	75	Slovakia	SVK	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+123918	Anita Valen (-de Vries)	F	1969	172	62	Norway	NOR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+124008	Tadej Valjavec	M	1977	171	61	Slovenia	SLO	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+124119	Alejandro Valverde Belmonte	M	1980	177	63	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+124320	Jurgen Van Den Broeck	M	1983	183	68	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+124341	Rob Petrus Karel Wilhelmina van den Wildenberg	M	1982	188	84	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+124345	Raymon Theodorus Marinus Raymondo Raymond van der Biezen	M	1987	182	80	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+124424	Marissa van der Merwe	F	1979	168	57	South Africa	RSA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+124681	Rudolphus Antonie Cornelis Rudi van Houts	M	1984	177	64	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+124878	Elisabet "Elsbeth" van Rooy-Vink	F	1973	173	54	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	NA
+125047	Brian Bach Vandborg	M	1982	187	74	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+125047	Brian Bach Vandborg	M	1982	187	74	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+125048	Christian John Vande Velde	M	1976	180	68	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+125172	Johan Vansummeren	M	1981	197	77	Belgium	BEL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+125749	Tim Veldt	M	1984	186	78	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+126531	Marta Vilajosana Andreu	F	1975	170	57	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+126531	Marta Vilajosana Andreu	F	1975	170	57	Spain	ESP	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+126678	Linda Melanie Villumsen Serup	F	1985	165	58	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+126678	Linda Melanie Villumsen Serup	F	1985	165	58	Denmark	DEN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+127040	Florian Vogel	M	1982	174	66	Switzerland	SUI	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+127110	Jens Voigt	M	1972	190	77	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+127164	Khristos Volikakis	M	1988	170	85	Greece	GRE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+127534	Marianne Vos	F	1987	169	59	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+127534	Marianne Vos	F	1987	169	59	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+127534	Marianne Vos	F	1987	169	59	Netherlands	NED	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	Gold
+127568	Panagiotis Voukelatos	M	1983	170	73	Greece	GRE	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+127760	Andriy Vynokurov	M	1983	178	85	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Keirin	NA
+127769	Yevheniya Petrivna Vysotska	F	1976	166	55	Ukraine	UKR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+127774	Modesta Vesniauskait	F	1984	174	55	Lithuania	LTU	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+127811	Satomi Wadami	F	1987	167	64	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+128138	Sarah Walker	F	1988	176	74	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's BMX	NA
+128891	Kazunari Watanabe	M	1984	176	80	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+128891	Kazunari Watanabe	M	1984	176	80	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+129258	Fabian Wegmann	M	1980	176	60	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+129548	Todd Wells	M	1976	188	77	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+130311	Bradley Marc Wiggins	M	1980	190	82	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Pursuit, 4,000 metres	Gold
+130311	Bradley Marc Wiggins	M	1980	190	82	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Pursuit, 4,000 metres	Gold
+130311	Bradley Marc Wiggins	M	1980	190	82	Great Britain	GBR	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Madison	NA
+130531	Marc Willers	M	1986	185	81	New Zealand	NZL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's BMX	NA
+130747	Erinne Willock	F	1982	162	50	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+131199	Maja Martyna Woszczowska	F	1984	170	54	Poland	POL	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Mountainbike, Cross-Country	Silver
+131427	Wan Yiu "Jamie" Wong	F	1987	164	54	Hong Kong	HKG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Points Race	NA
+131430	Wong Kam Po	M	1973	173	65	Hong Kong	HKG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+131489	Oenone Wood	F	1981	158	55	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+131489	Oenone Wood	F	1981	158	55	Australia	AUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+131611	Beatrix "Trixi" Worrack	F	1982	159	50	Germany	GER	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+131758	Alexandra "Alex" Wrubleski	F	1984	160	55	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+131758	Alexandra "Alex" Wrubleski	F	1984	160	55	Canada	CAN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+131797	Wu Kin San	M	1985	175	68	Hong Kong	HKG	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+131945	Milton Ariel Wynants Vzquez	M	1972	169	69	Uruguay	URU	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Points Race	NA
+132308	Kohei Yamamoto	M	1984	182	69	Japan	JPN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
+132761	Vladimir Aleksandrovich Yefimkin	M	1982	181	67	Russia	RUS	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+133595	Zulfiya Khasanovna Zabirova	F	1974	178	65	Kazakhstan	KAZ	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Road Race, Individual	NA
+133595	Zulfiya Khasanovna Zabirova	F	1974	178	65	Kazakhstan	KAZ	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Women's Individual Time Trial	NA
+133607	David Zabriskie	M	1979	183	72	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+133607	David Zabriskie	M	1979	183	72	United States	USA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Individual Time Trial	NA
+134495	Zhang Lei	M	1981	177	78	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Sprint	NA
+134495	Zhang Lei	M	1981	177	78	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Team Sprint	NA
+134505	Zhang Liang	M	1983	188	80	China	CHN	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Road Race, Individual	NA
+135210	Yader Zoli	M	1976	170	64	Italy	ITA	2008 Summer	2008	Summer	Beijing	Cycling	Cycling Men's Mountainbike, Cross-Country	NA
